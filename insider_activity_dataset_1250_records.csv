@@ -1,0 +1,1251 @@
+user_id,timestamp,department,role,login_frequency,file_access_count,sensitive_files_accessed,email_activity,external_recipients,usb_usage,after_hours_activity,failed_logins,data_transfer_mb,threat_score,risk_level,threat_category,threat_label
+U001,2026-09-27T04:27:00.000Z,"IT","Network Engineer",4,14,0,9,1,0,0,0,120,0.08,Low,"None",Normal
+U002,2026-09-26T05:31:00.000Z,"Human Resources","Recruitment Specialist",5,28,4,12,3,0,0,1,620,0.52,Medium,"Unauthorized Access",Normal
+U003,2026-09-25T03:58:00.000Z,"IT","Helpdesk Specialist",8,42,18,17,14,1,1,4,4850,0.874,High,"Data Exfiltration",Threat
+U004,2026-09-23T16:07:00.000Z,"Human Resources","HR Generalist",5,17,0,15,3,0,0,0,218,0.104,Low,"None",Normal
+U005,2026-09-22T20:24:00.000Z,"Finance","Accounts Auditor",7,11,0,7,2,0,0,0,298,0.123,Low,"None",Normal
+U006,2026-09-21T12:39:00.000Z,"Human Resources","HR Generalist",6,14,1,11,1,0,0,0,198,0.164,Low,"None",Normal
+U007,2026-09-27T22:30:00.000Z,"Engineering","QA Engineer",6,12,0,17,0,0,0,0,108,0.1,Low,"None",Normal
+U008,2026-09-27T08:02:00.000Z,"Sales","Customer Success Lead",7,14,0,9,0,0,0,0,207,0.094,Low,"None",Normal
+U009,2026-09-26T00:54:00.000Z,"Finance","Senior Controller",4,10,1,6,2,0,0,0,140,0.069,Low,"None",Normal
+U010,2026-09-24T09:47:00.000Z,"Finance","Financial Analyst",5,14,0,9,1,0,0,0,130,0.098,Low,"None",Normal
+U011,2026-09-23T23:30:00.000Z,"Engineering","Tech Lead",4,14,0,16,3,1,0,0,182,0.063,Low,"None",Normal
+U012,2026-09-22T09:10:00.000Z,"Human Resources","HR Director",6,16,1,5,2,1,1,0,143,0.029,Low,"None",Normal
+U013,2026-09-21T20:21:00.000Z,"IT","Systems Administrator",6,10,0,8,2,0,1,0,166,0.16,Low,"None",Normal
+U014,2026-09-27T21:25:00.000Z,"Human Resources","Recruitment Specialist",6,8,0,12,1,0,0,0,174,0.163,Low,"None",Normal
+U015,2026-09-26T16:50:00.000Z,"IT","Systems Administrator",6,44,6,17,10,1,1,3,993,0.692,Medium,"Data Exfiltration",Threat
+U016,2026-09-25T22:40:00.000Z,"IT","Network Engineer",7,20,0,4,2,0,0,0,171,0.16,Low,"None",Normal
+U017,2026-09-24T10:33:00.000Z,"Human Resources","Recruitment Specialist",5,16,1,11,0,0,0,0,190,0.12,Low,"None",Normal
+U018,2026-09-23T11:29:00.000Z,"IT","Network Engineer",3,13,0,9,2,0,0,0,76,0.19,Medium,"None",Normal
+U019,2026-09-22T22:25:00.000Z,"Human Resources","HR Director",5,21,1,9,1,1,0,0,125,0.036,Low,"None",Normal
+U020,2026-09-21T09:46:00.000Z,"Human Resources","Recruitment Specialist",7,8,0,4,1,0,0,0,242,0.073,Low,"None",Normal
+U021,2026-09-27T18:01:00.000Z,"IT","Security Operator",7,38,9,15,8,1,0,2,1890,0.64,Medium,"Data Exfiltration",Threat
+U022,2026-09-27T02:18:00.000Z,"Human Resources","HR Director",6,9,0,7,2,0,0,0,75,0.138,Low,"None",Normal
+U023,2026-09-25T10:29:00.000Z,"Finance","Senior Controller",3,10,0,15,2,0,0,0,76,0.055,Low,"None",Normal
+U024,2026-09-25T01:49:00.000Z,"Finance","Financial Analyst",3,6,0,14,0,0,0,0,255,0.237,Medium,"None",Normal
+U025,2026-09-24T01:59:00.000Z,"Finance","Accounts Auditor",6,9,0,12,2,0,0,0,176,0.131,Low,"None",Normal
+U026,2026-09-22T13:38:00.000Z,"Finance","Accounts Auditor",5,12,0,6,1,0,1,0,215,0.134,Low,"None",Normal
+U027,2026-09-21T19:19:00.000Z,"Engineering","Cloud Architect",6,11,0,6,0,0,1,0,233,0.18,Low,"None",Normal
+U028,2026-09-27T18:52:00.000Z,"Finance","Senior Controller",6,42,10,20,7,1,0,4,2965,0.745,Medium,"Data Exfiltration",Threat
+U029,2026-09-26T18:44:00.000Z,"Finance","Senior Controller",7,19,0,4,0,0,0,0,214,0.19,Medium,"None",Normal
+U030,2026-09-25T13:29:00.000Z,"Finance","Accounts Auditor",4,11,1,12,1,0,1,0,151,0.124,Low,"None",Normal
+U031,2026-09-25T03:40:00.000Z,"Engineering","Senior Software Engineer",6,11,0,4,0,0,0,1,155,0.119,Low,"None",Normal
+U032,2026-09-23T09:17:00.000Z,"Sales","Account Executive",7,15,0,4,2,0,0,0,286,0.22,Medium,"None",Normal
+U033,2026-09-22T20:13:00.000Z,"Sales","Customer Success Lead",4,7,1,6,3,0,0,0,81,0.177,Low,"None",Normal
+U034,2026-09-22T03:32:00.000Z,"Finance","Payroll Specialist",3,21,1,15,3,1,0,0,88,0.051,Low,"None",Normal
+U035,2026-09-27T14:23:00.000Z,"IT","Security Operator",3,20,0,9,3,0,0,0,69,0.087,Low,"None",Normal
+U036,2026-09-27T02:53:00.000Z,"Human Resources","Recruitment Specialist",6,14,0,8,2,0,1,0,163,0.199,Medium,"None",Normal
+U037,2026-09-26T01:48:00.000Z,"IT","Security Operator",3,18,0,16,1,0,0,0,300,0.09,Low,"None",Normal
+U038,2026-09-24T18:42:00.000Z,"Human Resources","HR Generalist",5,17,0,4,2,0,0,0,214,0.064,Low,"None",Normal
+U039,2026-09-23T19:48:00.000Z,"Sales","Enterprise Sales Director",7,9,0,14,2,0,0,0,264,0.184,Medium,"None",Normal
+U040,2026-09-22T17:40:00.000Z,"Human Resources","HR Generalist",3,12,0,7,1,0,0,0,283,0.042,Low,"None",Normal
+U041,2026-09-21T12:20:00.000Z,"IT","Helpdesk Specialist",5,7,0,6,0,0,0,1,60,0.037,Low,"None",Normal
+U042,2026-09-27T14:06:00.000Z,"IT","Network Engineer",14,41,16,70,37,1,1,8,5907,0.932,High,"Data Exfiltration",Threat
+U043,2026-09-26T18:13:00.000Z,"IT","Helpdesk Specialist",5,16,0,11,3,0,0,1,247,0.117,Low,"None",Normal
+U044,2026-09-25T13:29:00.000Z,"Finance","Accounts Auditor",4,15,0,9,2,0,1,1,289,0.114,Low,"None",Normal
+U045,2026-09-24T15:20:00.000Z,"Sales","Account Executive",3,16,0,17,1,0,0,0,275,0.184,Medium,"None",Normal
+U046,2026-09-23T10:02:00.000Z,"IT","Systems Administrator",6,17,0,5,0,0,0,0,79,0.023,Low,"None",Normal
+U047,2026-09-23T06:49:00.000Z,"Finance","Accounts Auditor",6,13,0,14,1,0,0,0,303,0.148,Low,"None",Normal
+U048,2026-09-22T00:33:00.000Z,"Human Resources","HR Director",4,21,0,6,2,0,1,0,126,0.232,Medium,"None",Normal
+U049,2026-09-28T06:29:00.000Z,"Sales","Account Executive",3,21,0,14,3,0,0,0,295,0.154,Low,"None",Normal
+U050,2026-09-26T12:54:00.000Z,"Finance","Senior Controller",6,21,0,10,1,0,0,0,53,0.163,Low,"None",Normal
+U051,2026-09-26T07:47:00.000Z,"Engineering","Tech Lead",5,11,0,14,1,0,1,0,172,0.085,Low,"None",Normal
+U052,2026-09-25T04:26:00.000Z,"IT","Systems Administrator",6,10,0,11,1,0,0,0,165,0.053,Low,"None",Normal
+U053,2026-09-23T18:05:00.000Z,"Human Resources","Recruitment Specialist",6,14,0,9,3,0,0,1,222,0.157,Low,"None",Normal
+U054,2026-09-22T16:28:00.000Z,"IT","Systems Administrator",6,14,0,6,1,0,0,0,40,0.083,Low,"None",Normal
+U055,2026-09-21T20:11:00.000Z,"Engineering","QA Engineer",5,8,0,11,1,0,0,0,289,0.094,Low,"None",Normal
+U056,2026-09-27T19:42:00.000Z,"Engineering","DevOps Specialist",7,11,0,10,3,0,0,0,115,0.165,Low,"None",Normal
+U057,2026-09-26T13:12:00.000Z,"Human Resources","HR Generalist",4,21,0,6,2,0,0,0,88,0.029,Low,"None",Normal
+U058,2026-09-25T10:19:00.000Z,"Finance","Accounts Auditor",6,14,0,8,0,0,0,0,139,0.122,Low,"None",Normal
+U059,2026-09-24T09:18:00.000Z,"Human Resources","HR Generalist",3,20,0,15,3,0,0,0,181,0.031,Low,"None",Normal
+U060,2026-09-24T04:37:00.000Z,"Finance","Accounts Auditor",4,16,0,16,1,0,0,0,285,0.045,Low,"None",Normal
+U061,2026-09-23T06:45:00.000Z,"Finance","Financial Analyst",7,12,1,9,2,0,0,0,140,0.023,Low,"None",Normal
+U062,2026-09-22T00:35:00.000Z,"Engineering","Cloud Architect",7,7,0,12,0,0,0,0,80,0.023,Low,"None",Normal
+U063,2026-09-28T01:04:00.000Z,"IT","Systems Administrator",4,9,0,10,2,0,0,0,97,0.028,Low,"None",Normal
+U064,2026-09-26T13:11:00.000Z,"Finance","Financial Analyst",7,16,0,8,2,0,0,0,82,0.039,Low,"None",Normal
+U065,2026-09-26T08:09:00.000Z,"IT","Security Operator",3,8,0,7,0,0,0,0,122,0.072,Low,"None",Normal
+U066,2026-09-24T16:02:00.000Z,"Sales","Account Executive",5,29,4,21,12,0,0,4,2102,0.714,Medium,"Privilege Escalation",Threat
+U067,2026-09-23T19:23:00.000Z,"IT","Network Engineer",12,55,27,35,22,1,1,8,3314,0.818,High,"Privilege Escalation",Threat
+U068,2026-09-22T15:15:00.000Z,"Sales","Customer Success Lead",4,15,0,7,3,0,0,0,226,0.029,Low,"None",Normal
+U069,2026-09-22T08:05:00.000Z,"Engineering","Tech Lead",4,14,0,17,0,0,0,0,262,0.174,Low,"None",Normal
+U070,2026-09-27T08:48:00.000Z,"Engineering","Tech Lead",4,18,0,4,2,0,0,0,170,0.217,Medium,"None",Normal
+U071,2026-09-26T18:57:00.000Z,"IT","Helpdesk Specialist",6,21,1,10,0,0,1,0,182,0.099,Low,"None",Normal
+U072,2026-09-26T02:58:00.000Z,"Engineering","Cloud Architect",3,10,0,7,0,0,0,0,89,0.069,Low,"None",Normal
+U073,2026-09-24T18:29:00.000Z,"Finance","Senior Controller",7,6,0,9,0,0,0,0,295,0.147,Low,"None",Normal
+U074,2026-09-23T20:14:00.000Z,"Sales","Account Executive",6,15,0,15,2,0,1,0,45,0.122,Low,"None",Normal
+U075,2026-09-23T02:35:00.000Z,"Human Resources","Recruitment Specialist",5,9,0,14,1,0,0,0,146,0.02,Low,"None",Normal
+U076,2026-09-21T12:24:00.000Z,"Engineering","DevOps Specialist",4,21,0,14,1,0,0,0,99,0.044,Low,"None",Normal
+U077,2026-09-28T05:51:00.000Z,"Human Resources","HR Director",4,13,1,6,0,0,0,0,220,0.228,Medium,"None",Normal
+U078,2026-09-27T04:46:00.000Z,"IT","Security Operator",4,21,0,14,2,0,0,0,95,0.02,Low,"None",Normal
+U079,2026-09-26T00:09:00.000Z,"Finance","Senior Controller",4,6,0,13,3,0,0,0,60,0.228,Medium,"None",Normal
+U080,2026-09-24T10:39:00.000Z,"IT","Systems Administrator",5,21,0,9,0,0,0,0,123,0.2,Medium,"None",Normal
+U081,2026-09-23T08:46:00.000Z,"Human Resources","HR Director",7,7,1,6,3,0,0,0,103,0.091,Low,"None",Normal
+U082,2026-09-22T12:55:00.000Z,"Sales","Enterprise Sales Director",5,14,0,4,3,0,0,1,186,0.165,Low,"None",Normal
+U083,2026-09-21T22:05:00.000Z,"Human Resources","HR Director",5,9,0,9,0,0,0,0,131,0.239,Medium,"None",Normal
+U084,2026-09-27T16:41:00.000Z,"Finance","Payroll Specialist",6,10,0,12,2,0,0,1,99,0.142,Low,"None",Normal
+U085,2026-09-26T17:31:00.000Z,"Finance","Accounts Auditor",4,14,0,17,1,0,0,0,243,0.111,Low,"None",Normal
+U086,2026-09-26T06:32:00.000Z,"Human Resources","Recruitment Specialist",6,20,0,15,3,0,0,0,86,0.134,Low,"None",Normal
+U087,2026-09-25T06:08:00.000Z,"Finance","Senior Controller",4,14,1,9,0,0,0,0,254,0.096,Low,"None",Normal
+U088,2026-09-23T13:18:00.000Z,"IT","Systems Administrator",3,21,0,15,0,0,0,1,98,0.122,Low,"None",Normal
+U089,2026-09-23T06:03:00.000Z,"Engineering","Cloud Architect",15,78,25,66,14,1,1,7,8813,0.856,High,"Data Exfiltration",Threat
+U090,2026-09-22T02:56:00.000Z,"IT","Systems Administrator",4,11,0,14,0,0,0,0,311,0.052,Low,"None",Normal
+U091,2026-09-28T04:39:00.000Z,"Finance","Accounts Auditor",3,15,1,14,2,0,0,0,111,0.228,Medium,"None",Normal
+U092,2026-09-27T07:12:00.000Z,"Sales","Account Executive",6,7,0,11,0,0,1,0,106,0.148,Low,"None",Normal
+U093,2026-09-25T23:57:00.000Z,"IT","Systems Administrator",7,16,0,9,0,0,0,0,194,0.099,Low,"None",Normal
+U094,2026-09-25T02:06:00.000Z,"Engineering","Senior Software Engineer",7,21,0,13,1,0,0,0,199,0.123,Low,"None",Normal
+U095,2026-09-23T22:58:00.000Z,"Engineering","QA Engineer",5,14,0,6,1,1,0,0,52,0.131,Low,"None",Normal
+U096,2026-09-22T12:34:00.000Z,"Human Resources","Recruitment Specialist",3,10,0,16,2,0,0,0,275,0.193,Medium,"None",Normal
+U097,2026-09-22T07:05:00.000Z,"Sales","Enterprise Sales Director",5,28,10,36,15,1,1,2,2667,0.69,Medium,"Data Exfiltration",Threat
+U098,2026-09-27T16:44:00.000Z,"IT","Helpdesk Specialist",6,15,0,17,2,1,0,0,62,0.096,Low,"None",Normal
+U099,2026-09-26T20:49:00.000Z,"Finance","Payroll Specialist",5,13,0,16,0,0,0,1,292,0.144,Low,"None",Normal
+U100,2026-09-25T15:40:00.000Z,"Human Resources","HR Generalist",7,19,0,15,2,0,0,0,279,0.093,Low,"None",Normal
+U101,2026-09-25T00:21:00.000Z,"Engineering","DevOps Specialist",7,9,0,8,2,0,0,1,230,0.232,Medium,"None",Normal
+U102,2026-09-23T21:11:00.000Z,"Engineering","QA Engineer",3,11,0,12,2,0,1,0,234,0.065,Low,"None",Normal
+U103,2026-09-23T06:45:00.000Z,"Finance","Accounts Auditor",5,8,0,17,2,0,0,0,127,0.02,Low,"None",Normal
+U104,2026-09-22T03:09:00.000Z,"Finance","Financial Analyst",18,46,23,35,22,1,0,9,7621,0.972,High,"Data Exfiltration",Threat
+U105,2026-09-27T13:54:00.000Z,"IT","Security Operator",4,16,0,9,1,0,0,0,254,0.186,Medium,"None",Normal
+U106,2026-09-27T06:40:00.000Z,"Engineering","Senior Software Engineer",7,19,0,17,3,0,0,0,249,0.125,Low,"None",Normal
+U107,2026-09-25T22:41:00.000Z,"Sales","Account Executive",7,8,0,4,2,0,1,0,315,0.214,Medium,"None",Normal
+U108,2026-09-24T09:34:00.000Z,"Human Resources","Recruitment Specialist",4,15,0,7,3,0,0,0,166,0.166,Low,"None",Normal
+U109,2026-09-23T12:16:00.000Z,"Sales","Account Executive",4,8,0,17,1,0,0,0,314,0.076,Low,"None",Normal
+U110,2026-09-22T23:18:00.000Z,"Finance","Accounts Auditor",7,7,0,14,0,0,0,1,275,0.22,Medium,"None",Normal
+U111,2026-09-21T08:45:00.000Z,"Human Resources","HR Director",5,10,0,6,0,1,0,0,218,0.077,Low,"None",Normal
+U112,2026-09-27T15:17:00.000Z,"Engineering","Senior Software Engineer",5,21,1,16,1,1,1,0,189,0.099,Low,"None",Normal
+U113,2026-09-26T15:24:00.000Z,"Sales","Customer Success Lead",5,7,0,5,2,0,0,0,90,0.044,Low,"None",Normal
+U114,2026-09-25T23:31:00.000Z,"Engineering","Tech Lead",7,12,0,17,1,0,0,1,106,0.076,Low,"None",Normal
+U115,2026-09-25T06:36:00.000Z,"IT","Security Operator",7,6,0,4,3,0,0,0,300,0.025,Low,"None",Normal
+U116,2026-09-23T11:06:00.000Z,"IT","Systems Administrator",7,18,0,8,1,0,0,0,112,0.129,Low,"None",Normal
+U117,2026-09-23T05:54:00.000Z,"Human Resources","HR Director",5,16,1,5,2,0,1,1,112,0.068,Low,"None",Normal
+U118,2026-09-21T21:13:00.000Z,"Human Resources","Recruitment Specialist",6,15,1,4,1,0,0,0,85,0.126,Low,"None",Normal
+U119,2026-09-27T14:02:00.000Z,"IT","Network Engineer",7,10,0,14,1,0,1,0,286,0.229,Medium,"None",Normal
+U120,2026-09-26T23:17:00.000Z,"Engineering","Senior Software Engineer",4,6,0,16,0,0,0,0,154,0.203,Medium,"None",Normal
+U121,2026-09-25T16:04:00.000Z,"Sales","Enterprise Sales Director",6,10,0,7,0,0,0,1,220,0.123,Low,"None",Normal
+U122,2026-09-25T03:46:00.000Z,"Engineering","DevOps Specialist",3,20,1,8,2,0,0,0,300,0.04,Low,"None",Normal
+U123,2026-09-23T21:44:00.000Z,"Engineering","Tech Lead",3,11,1,10,1,0,1,0,230,0.211,Medium,"None",Normal
+U124,2026-09-22T11:03:00.000Z,"Engineering","Cloud Architect",3,17,0,13,2,0,0,1,61,0.101,Low,"None",Normal
+U125,2026-09-21T11:03:00.000Z,"IT","Security Operator",7,16,1,12,1,0,0,0,126,0.156,Low,"None",Normal
+U126,2026-09-27T15:08:00.000Z,"Engineering","Cloud Architect",7,17,0,10,3,0,0,0,63,0.143,Low,"None",Normal
+U127,2026-09-27T00:08:00.000Z,"Sales","Customer Success Lead",4,16,0,12,2,0,0,0,78,0.104,Low,"None",Normal
+U128,2026-09-25T15:29:00.000Z,"Sales","Customer Success Lead",7,13,0,12,3,0,0,0,124,0.109,Low,"None",Normal
+U129,2026-09-24T11:17:00.000Z,"Finance","Accounts Auditor",10,36,13,16,14,1,0,1,1837,0.742,Medium,"Unauthorized Access",Threat
+U130,2026-09-23T19:54:00.000Z,"Sales","Enterprise Sales Director",6,16,1,14,1,0,0,0,283,0.146,Low,"None",Normal
+U131,2026-09-22T17:06:00.000Z,"Finance","Financial Analyst",11,61,14,54,33,1,1,9,5937,0.938,High,"Privilege Escalation",Threat
+U132,2026-09-21T17:16:00.000Z,"Engineering","Senior Software Engineer",7,11,0,13,0,0,0,0,142,0.197,Medium,"None",Normal
+U133,2026-09-27T10:20:00.000Z,"Sales","Enterprise Sales Director",11,26,10,28,11,1,1,3,2852,0.76,Medium,"Data Exfiltration",Threat
+U134,2026-09-26T19:15:00.000Z,"Finance","Financial Analyst",5,18,0,8,2,0,0,0,161,0.217,Medium,"None",Normal
+U135,2026-09-25T21:28:00.000Z,"Finance","Financial Analyst",3,10,0,12,1,0,1,1,205,0.212,Medium,"None",Normal
+U136,2026-09-25T05:29:00.000Z,"Engineering","QA Engineer",3,21,0,5,3,1,0,0,68,0.064,Low,"None",Normal
+U137,2026-09-24T02:33:00.000Z,"Engineering","Cloud Architect",3,16,0,9,0,0,0,0,102,0.152,Low,"None",Normal
+U138,2026-09-22T23:54:00.000Z,"IT","Helpdesk Specialist",4,20,0,6,0,0,0,0,284,0.084,Low,"None",Normal
+U139,2026-09-22T07:45:00.000Z,"Finance","Financial Analyst",6,9,0,10,3,0,0,0,191,0.177,Low,"None",Normal
+U140,2026-09-27T17:13:00.000Z,"IT","Network Engineer",4,17,0,15,3,0,1,0,190,0.205,Medium,"None",Normal
+U141,2026-09-26T17:48:00.000Z,"IT","Network Engineer",5,7,1,13,3,0,0,0,128,0.04,Low,"None",Normal
+U142,2026-09-25T11:50:00.000Z,"Engineering","Cloud Architect",7,19,1,7,1,1,0,1,296,0.047,Low,"None",Normal
+U143,2026-09-24T20:43:00.000Z,"IT","Security Operator",6,15,0,14,2,0,0,0,126,0.143,Low,"None",Normal
+U144,2026-09-23T15:16:00.000Z,"IT","Helpdesk Specialist",7,20,0,16,3,0,0,0,272,0.062,Low,"None",Normal
+U145,2026-09-23T04:01:00.000Z,"Sales","Customer Success Lead",5,16,0,13,3,0,0,0,173,0.035,Low,"None",Normal
+U146,2026-09-21T23:20:00.000Z,"IT","Helpdesk Specialist",7,11,0,10,3,0,0,0,99,0.137,Low,"None",Normal
+U147,2026-09-27T22:23:00.000Z,"Sales","Account Executive",7,14,0,15,2,0,0,0,56,0.186,Medium,"None",Normal
+U148,2026-09-26T09:57:00.000Z,"Sales","Customer Success Lead",5,7,0,10,0,0,0,1,258,0.14,Low,"None",Normal
+U149,2026-09-25T16:00:00.000Z,"Engineering","QA Engineer",4,21,0,14,0,0,0,0,256,0.206,Medium,"None",Normal
+U150,2026-09-24T17:53:00.000Z,"IT","Helpdesk Specialist",5,20,1,17,0,0,0,0,133,0.214,Medium,"None",Normal
+U151,2026-09-23T20:44:00.000Z,"Engineering","Senior Software Engineer",3,13,1,15,3,0,1,1,200,0.22,Medium,"None",Normal
+U152,2026-09-22T11:59:00.000Z,"Engineering","Cloud Architect",5,12,0,17,1,0,0,0,170,0.101,Low,"None",Normal
+U153,2026-09-21T09:40:00.000Z,"Finance","Payroll Specialist",5,16,0,5,1,0,0,1,285,0.047,Low,"None",Normal
+U154,2026-09-27T12:34:00.000Z,"Human Resources","HR Director",6,11,0,11,2,0,0,0,295,0.081,Low,"None",Normal
+U155,2026-09-26T15:56:00.000Z,"IT","Security Operator",3,16,0,6,3,0,1,0,66,0.099,Low,"None",Normal
+U156,2026-09-26T00:33:00.000Z,"IT","Network Engineer",8,61,32,39,12,1,0,3,5316,0.828,High,"Privilege Escalation",Threat
+U157,2026-09-24T23:29:00.000Z,"Engineering","Cloud Architect",7,11,0,12,2,0,0,0,117,0.033,Low,"None",Normal
+U158,2026-09-23T22:09:00.000Z,"Engineering","QA Engineer",4,19,0,13,0,0,0,0,275,0.19,Medium,"None",Normal
+U159,2026-09-22T20:42:00.000Z,"Sales","Account Executive",3,9,0,17,0,0,0,0,204,0.124,Low,"None",Normal
+U160,2026-09-22T00:17:00.000Z,"Finance","Payroll Specialist",6,12,1,16,1,0,0,0,318,0.062,Low,"None",Normal
+U161,2026-09-27T18:42:00.000Z,"Finance","Accounts Auditor",4,17,0,6,0,0,0,0,313,0.066,Low,"None",Normal
+U162,2026-09-27T06:49:00.000Z,"Sales","Account Executive",6,9,0,13,1,0,0,1,133,0.138,Low,"None",Normal
+U163,2026-09-25T20:15:00.000Z,"Human Resources","Recruitment Specialist",9,41,5,23,13,0,0,2,1282,0.571,Medium,"Unauthorized Access",Threat
+U164,2026-09-25T00:44:00.000Z,"Finance","Senior Controller",6,7,0,15,0,0,0,1,163,0.201,Medium,"None",Normal
+U165,2026-09-23T22:31:00.000Z,"Engineering","QA Engineer",4,18,1,14,3,0,0,0,62,0.144,Low,"None",Normal
+U166,2026-09-23T00:24:00.000Z,"Human Resources","HR Director",6,18,1,6,2,0,0,0,44,0.028,Low,"None",Normal
+U167,2026-09-21T16:38:00.000Z,"Finance","Accounts Auditor",7,10,0,10,2,0,1,0,97,0.192,Medium,"None",Normal
+U168,2026-09-28T08:24:00.000Z,"Finance","Financial Analyst",3,9,0,13,2,0,0,0,272,0.214,Medium,"None",Normal
+U169,2026-09-26T11:43:00.000Z,"Human Resources","HR Director",5,15,0,9,0,0,0,1,184,0.098,Low,"None",Normal
+U170,2026-09-26T01:25:00.000Z,"Engineering","Senior Software Engineer",6,21,0,16,0,0,0,0,228,0.054,Low,"None",Normal
+U171,2026-09-25T04:09:00.000Z,"Engineering","Tech Lead",5,6,0,11,0,0,1,0,81,0.059,Low,"None",Normal
+U172,2026-09-23T23:59:00.000Z,"Human Resources","HR Director",6,11,0,10,1,0,0,1,216,0.119,Low,"None",Normal
+U173,2026-09-22T20:26:00.000Z,"Engineering","Senior Software Engineer",7,21,0,16,3,0,0,0,168,0.146,Low,"None",Normal
+U174,2026-09-21T12:56:00.000Z,"Finance","Payroll Specialist",3,9,0,5,1,1,1,0,60,0.144,Low,"None",Normal
+U175,2026-09-27T11:30:00.000Z,"IT","Systems Administrator",6,16,1,16,1,1,0,0,93,0.044,Low,"None",Normal
+U176,2026-09-26T23:58:00.000Z,"IT","Helpdesk Specialist",7,9,0,14,0,0,0,0,226,0.027,Low,"None",Normal
+U177,2026-09-25T19:36:00.000Z,"IT","Security Operator",4,6,0,9,1,0,0,0,144,0.071,Low,"None",Normal
+U178,2026-09-24T19:55:00.000Z,"Sales","Enterprise Sales Director",4,21,1,10,1,0,0,0,233,0.199,Medium,"None",Normal
+U179,2026-09-23T15:01:00.000Z,"Sales","Account Executive",7,20,0,9,2,0,0,0,47,0.18,Low,"None",Normal
+U180,2026-09-22T22:04:00.000Z,"Human Resources","HR Generalist",3,20,0,9,1,0,1,0,60,0.227,Medium,"None",Normal
+U181,2026-09-22T01:15:00.000Z,"Sales","Enterprise Sales Director",6,12,0,7,2,0,0,0,166,0.206,Medium,"None",Normal
+U182,2026-09-27T19:11:00.000Z,"Finance","Accounts Auditor",3,19,0,5,2,1,1,0,314,0.119,Low,"None",Normal
+U183,2026-09-26T21:04:00.000Z,"Human Resources","Recruitment Specialist",7,9,0,15,1,0,0,0,184,0.204,Medium,"None",Normal
+U184,2026-09-25T17:37:00.000Z,"Sales","Account Executive",6,16,1,14,0,0,0,0,306,0.144,Low,"None",Normal
+U185,2026-09-24T16:31:00.000Z,"Finance","Accounts Auditor",3,17,0,9,0,0,0,0,74,0.238,Medium,"None",Normal
+U186,2026-09-24T02:51:00.000Z,"IT","Network Engineer",4,8,0,17,2,0,0,0,145,0.231,Medium,"None",Normal
+U187,2026-09-23T06:11:00.000Z,"Engineering","QA Engineer",7,14,0,9,3,0,0,0,102,0.099,Low,"None",Normal
+U188,2026-09-21T18:33:00.000Z,"Sales","Customer Success Lead",4,17,0,17,0,0,0,0,46,0.027,Low,"None",Normal
+U189,2026-09-28T06:36:00.000Z,"Human Resources","HR Generalist",17,41,27,68,20,1,1,9,7818,0.827,High,"Data Exfiltration",Threat
+U190,2026-09-26T13:38:00.000Z,"Human Resources","HR Director",5,10,1,11,0,0,0,0,203,0.191,Medium,"None",Normal
+U191,2026-09-25T16:21:00.000Z,"Engineering","Senior Software Engineer",4,20,0,7,3,0,0,0,162,0.043,Low,"None",Normal
+U192,2026-09-25T05:38:00.000Z,"Sales","Customer Success Lead",7,12,0,13,1,0,0,0,236,0.034,Low,"None",Normal
+U193,2026-09-23T18:01:00.000Z,"Finance","Accounts Auditor",6,20,0,14,3,0,0,0,194,0.107,Low,"None",Normal
+U194,2026-09-23T08:20:00.000Z,"Human Resources","Recruitment Specialist",4,12,0,5,1,0,0,0,82,0.209,Medium,"None",Normal
+U195,2026-09-21T23:28:00.000Z,"Finance","Senior Controller",3,7,0,4,3,0,1,1,254,0.07,Low,"None",Normal
+U196,2026-09-28T02:51:00.000Z,"Finance","Financial Analyst",3,21,0,4,2,0,0,0,84,0.059,Low,"None",Normal
+U197,2026-09-26T16:56:00.000Z,"Human Resources","HR Director",10,43,4,21,6,0,1,2,2500,0.686,Medium,"Privilege Escalation",Threat
+U198,2026-09-25T11:57:00.000Z,"Human Resources","HR Director",3,15,0,12,1,0,0,0,148,0.17,Low,"None",Normal
+U199,2026-09-24T18:39:00.000Z,"Finance","Senior Controller",5,6,0,10,3,0,0,0,63,0.213,Medium,"None",Normal
+U200,2026-09-23T13:14:00.000Z,"Finance","Accounts Auditor",4,16,0,4,0,1,0,1,224,0.206,Medium,"None",Normal
+U201,2026-09-22T20:01:00.000Z,"Human Resources","HR Director",6,9,0,9,1,1,0,0,177,0.186,Medium,"None",Normal
+U202,2026-09-21T13:37:00.000Z,"Sales","Account Executive",3,14,1,14,1,0,0,0,302,0.069,Low,"None",Normal
+U203,2026-09-27T15:44:00.000Z,"Engineering","DevOps Specialist",5,6,0,6,1,0,0,0,274,0.124,Low,"None",Normal
+U204,2026-09-27T04:11:00.000Z,"Finance","Payroll Specialist",7,71,32,65,35,1,1,9,5394,0.94,High,"Intellectual Property Theft",Threat
+U205,2026-09-26T01:44:00.000Z,"Sales","Enterprise Sales Director",5,19,1,9,3,1,0,0,292,0.23,Medium,"None",Normal
+U206,2026-09-24T11:44:00.000Z,"IT","Systems Administrator",7,12,0,7,3,1,0,0,231,0.233,Medium,"None",Normal
+U207,2026-09-24T07:33:00.000Z,"Finance","Payroll Specialist",3,12,0,13,2,0,0,0,58,0.085,Low,"None",Normal
+U208,2026-09-22T19:08:00.000Z,"Finance","Financial Analyst",3,15,0,15,3,0,0,0,300,0.059,Low,"None",Normal
+U209,2026-09-21T11:33:00.000Z,"IT","Network Engineer",7,17,0,12,0,0,0,1,128,0.049,Low,"None",Normal
+U210,2026-09-27T14:39:00.000Z,"IT","Network Engineer",5,8,0,5,2,0,1,0,180,0.046,Low,"None",Normal
+U211,2026-09-26T15:55:00.000Z,"Sales","Account Executive",3,15,0,13,0,0,0,0,145,0.228,Medium,"None",Normal
+U212,2026-09-26T01:13:00.000Z,"Engineering","Senior Software Engineer",6,12,0,10,3,0,0,0,203,0.201,Medium,"None",Normal
+U213,2026-09-25T03:42:00.000Z,"Human Resources","Recruitment Specialist",3,13,0,9,2,0,0,1,166,0.162,Low,"None",Normal
+U214,2026-09-23T22:25:00.000Z,"IT","Systems Administrator",5,13,1,10,2,0,0,0,264,0.061,Low,"None",Normal
+U215,2026-09-22T21:18:00.000Z,"IT","Network Engineer",7,6,0,5,1,0,0,0,142,0.231,Medium,"None",Normal
+U216,2026-09-21T19:40:00.000Z,"Finance","Accounts Auditor",6,14,0,12,3,0,0,0,222,0.222,Medium,"None",Normal
+U217,2026-09-27T19:52:00.000Z,"IT","Systems Administrator",3,7,1,11,1,0,1,0,282,0.077,Low,"None",Normal
+U218,2026-09-27T01:37:00.000Z,"IT","Systems Administrator",5,17,1,8,1,0,0,0,306,0.072,Low,"None",Normal
+U219,2026-09-25T11:04:00.000Z,"IT","Systems Administrator",5,10,1,6,0,0,0,0,223,0.106,Low,"None",Normal
+U220,2026-09-24T15:29:00.000Z,"Finance","Senior Controller",4,12,0,12,2,0,0,0,48,0.223,Medium,"None",Normal
+U221,2026-09-24T05:41:00.000Z,"Sales","Account Executive",6,16,0,15,3,0,0,0,134,0.036,Low,"None",Normal
+U222,2026-09-23T00:10:00.000Z,"Engineering","Tech Lead",6,6,0,14,0,0,0,0,228,0.148,Low,"None",Normal
+U223,2026-09-21T12:17:00.000Z,"Sales","Enterprise Sales Director",7,10,1,9,0,1,0,0,196,0.06,Low,"None",Normal
+U224,2026-09-27T20:19:00.000Z,"Engineering","DevOps Specialist",4,13,0,13,3,0,0,0,310,0.177,Low,"None",Normal
+U225,2026-09-27T07:08:00.000Z,"Engineering","Tech Lead",4,17,0,14,0,0,1,0,115,0.113,Low,"None",Normal
+U226,2026-09-25T19:12:00.000Z,"Finance","Accounts Auditor",4,6,0,5,3,0,0,0,178,0.083,Low,"None",Normal
+U227,2026-09-25T05:06:00.000Z,"Engineering","Senior Software Engineer",3,6,0,5,2,0,0,0,84,0.114,Low,"None",Normal
+U228,2026-09-23T17:10:00.000Z,"Human Resources","HR Generalist",5,19,0,5,2,0,0,0,208,0.103,Low,"None",Normal
+U229,2026-09-22T21:32:00.000Z,"Engineering","QA Engineer",6,19,0,12,3,0,0,0,258,0.118,Low,"None",Normal
+U230,2026-09-21T22:40:00.000Z,"IT","Network Engineer",4,11,0,7,3,0,0,0,253,0.02,Low,"None",Normal
+U231,2026-09-27T10:06:00.000Z,"Sales","Enterprise Sales Director",14,64,28,25,36,1,1,7,7672,0.931,High,"Privilege Escalation",Threat
+U232,2026-09-27T05:07:00.000Z,"Finance","Accounts Auditor",3,19,0,11,3,0,0,0,78,0.205,Medium,"None",Normal
+U233,2026-09-25T20:59:00.000Z,"Human Resources","Recruitment Specialist",6,12,0,8,0,0,0,0,260,0.174,Low,"None",Normal
+U234,2026-09-25T01:52:00.000Z,"Sales","Customer Success Lead",4,16,0,16,1,0,0,1,69,0.038,Low,"None",Normal
+U235,2026-09-23T17:59:00.000Z,"Human Resources","Recruitment Specialist",12,28,13,28,7,0,1,4,2874,0.672,Medium,"Data Exfiltration",Threat
+U236,2026-09-23T04:48:00.000Z,"Sales","Customer Success Lead",6,8,0,11,2,0,0,0,192,0.073,Low,"None",Normal
+U237,2026-09-21T18:30:00.000Z,"Engineering","QA Engineer",3,6,0,4,2,0,0,0,120,0.066,Low,"None",Normal
+U238,2026-09-27T16:13:00.000Z,"Sales","Customer Success Lead",5,14,1,9,1,0,1,0,318,0.139,Low,"None",Normal
+U239,2026-09-27T03:14:00.000Z,"Sales","Customer Success Lead",5,15,0,6,2,0,0,0,65,0.215,Medium,"None",Normal
+U240,2026-09-26T07:30:00.000Z,"Finance","Senior Controller",5,12,0,6,2,0,0,0,132,0.082,Low,"None",Normal
+U241,2026-09-25T01:13:00.000Z,"Engineering","DevOps Specialist",7,7,1,15,0,0,1,0,155,0.043,Low,"None",Normal
+U242,2026-09-23T10:02:00.000Z,"Finance","Accounts Auditor",4,7,0,13,3,0,1,0,267,0.206,Medium,"None",Normal
+U243,2026-09-22T21:58:00.000Z,"Finance","Accounts Auditor",5,20,0,10,3,0,0,0,240,0.048,Low,"None",Normal
+U244,2026-09-21T15:36:00.000Z,"Finance","Payroll Specialist",5,16,0,5,1,0,0,0,205,0.075,Low,"None",Normal
+U245,2026-09-27T12:37:00.000Z,"Finance","Senior Controller",6,43,5,35,5,0,0,2,3091,0.695,Medium,"Privilege Escalation",Threat
+U246,2026-09-27T08:26:00.000Z,"Finance","Payroll Specialist",3,19,0,12,1,0,1,0,79,0.071,Low,"None",Normal
+U247,2026-09-25T09:04:00.000Z,"Engineering","DevOps Specialist",6,20,0,11,3,0,0,0,86,0.238,Medium,"None",Normal
+U248,2026-09-24T12:27:00.000Z,"Sales","Enterprise Sales Director",6,16,0,8,1,0,0,0,84,0.216,Medium,"None",Normal
+U249,2026-09-23T10:59:00.000Z,"Finance","Financial Analyst",4,18,0,16,0,0,0,0,173,0.055,Low,"None",Normal
+U250,2026-09-22T19:31:00.000Z,"Engineering","DevOps Specialist",6,16,0,8,1,0,0,1,275,0.21,Medium,"None",Normal
+U251,2026-09-22T06:27:00.000Z,"Engineering","DevOps Specialist",7,21,0,4,0,0,0,0,237,0.107,Low,"None",Normal
+U252,2026-09-27T16:55:00.000Z,"IT","Systems Administrator",6,17,0,5,3,0,0,0,189,0.159,Low,"None",Normal
+U253,2026-09-27T05:58:00.000Z,"Human Resources","Recruitment Specialist",5,20,0,13,0,0,0,0,72,0.165,Low,"None",Normal
+U254,2026-09-25T16:51:00.000Z,"Sales","Customer Success Lead",4,12,0,11,0,0,0,0,168,0.23,Medium,"None",Normal
+U255,2026-09-24T08:34:00.000Z,"IT","Helpdesk Specialist",6,20,0,10,1,1,0,0,82,0.115,Low,"None",Normal
+U256,2026-09-23T22:16:00.000Z,"IT","Helpdesk Specialist",3,16,0,17,1,0,0,0,258,0.078,Low,"None",Normal
+U257,2026-09-23T00:20:00.000Z,"Human Resources","HR Generalist",5,11,0,4,0,0,0,0,115,0.201,Medium,"None",Normal
+U258,2026-09-21T12:31:00.000Z,"Engineering","Tech Lead",4,11,0,10,1,0,0,0,142,0.035,Low,"None",Normal
+U259,2026-09-27T12:36:00.000Z,"IT","Network Engineer",4,10,0,17,1,0,0,0,108,0.187,Medium,"None",Normal
+U260,2026-09-26T19:06:00.000Z,"Engineering","DevOps Specialist",17,61,22,63,16,1,1,6,7794,0.953,High,"Data Exfiltration",Threat
+U261,2026-09-25T14:55:00.000Z,"Engineering","DevOps Specialist",4,8,0,8,0,0,0,0,42,0.065,Low,"None",Normal
+U262,2026-09-25T00:54:00.000Z,"Human Resources","Recruitment Specialist",5,7,1,16,3,0,0,1,168,0.162,Low,"None",Normal
+U263,2026-09-23T15:03:00.000Z,"Finance","Financial Analyst",3,17,0,10,1,1,0,0,291,0.029,Low,"None",Normal
+U264,2026-09-22T12:41:00.000Z,"Engineering","Cloud Architect",6,13,0,14,3,1,0,0,226,0.148,Low,"None",Normal
+U265,2026-09-21T14:25:00.000Z,"Sales","Enterprise Sales Director",6,6,0,10,2,0,0,1,72,0.188,Medium,"None",Normal
+U266,2026-09-27T21:56:00.000Z,"Sales","Customer Success Lead",4,18,0,16,1,0,0,1,170,0.132,Low,"None",Normal
+U267,2026-09-26T20:35:00.000Z,"Sales","Enterprise Sales Director",4,13,0,7,0,0,0,1,319,0.213,Medium,"None",Normal
+U268,2026-09-25T08:48:00.000Z,"Sales","Enterprise Sales Director",3,13,0,14,2,0,0,0,121,0.237,Medium,"None",Normal
+U269,2026-09-24T17:48:00.000Z,"Human Resources","Recruitment Specialist",5,21,0,10,0,0,0,0,122,0.047,Low,"None",Normal
+U270,2026-09-23T19:18:00.000Z,"Human Resources","HR Generalist",4,18,0,13,1,0,0,0,45,0.166,Low,"None",Normal
+U271,2026-09-22T18:21:00.000Z,"Sales","Account Executive",6,6,0,13,2,0,0,0,48,0.139,Low,"None",Normal
+U272,2026-09-21T13:03:00.000Z,"Sales","Enterprise Sales Director",3,7,1,8,3,0,0,0,206,0.148,Low,"None",Normal
+U273,2026-09-28T03:42:00.000Z,"Human Resources","HR Director",4,20,0,11,3,1,0,1,111,0.227,Medium,"None",Normal
+U274,2026-09-26T12:10:00.000Z,"Finance","Accounts Auditor",4,21,1,16,1,1,0,0,163,0.056,Low,"None",Normal
+U275,2026-09-25T17:20:00.000Z,"IT","Helpdesk Specialist",3,7,0,16,1,0,0,0,207,0.072,Low,"None",Normal
+U276,2026-09-25T02:54:00.000Z,"Engineering","Tech Lead",5,8,0,14,1,0,0,0,277,0.048,Low,"None",Normal
+U277,2026-09-23T22:48:00.000Z,"Finance","Financial Analyst",3,12,0,10,3,1,0,0,291,0.179,Low,"None",Normal
+U278,2026-09-22T21:55:00.000Z,"Sales","Enterprise Sales Director",3,12,1,16,0,0,0,0,53,0.035,Low,"None",Normal
+U279,2026-09-22T05:00:00.000Z,"IT","Network Engineer",3,15,0,9,2,1,0,0,257,0.04,Low,"None",Normal
+U280,2026-09-28T02:50:00.000Z,"Engineering","Tech Lead",3,18,0,9,3,0,0,0,161,0.132,Low,"None",Normal
+U281,2026-09-26T15:18:00.000Z,"Finance","Senior Controller",3,20,0,12,1,0,0,0,79,0.21,Medium,"None",Normal
+U282,2026-09-26T01:31:00.000Z,"Engineering","Senior Software Engineer",6,12,0,11,1,0,0,1,152,0.069,Low,"None",Normal
+U283,2026-09-24T22:56:00.000Z,"Human Resources","HR Director",6,18,1,13,3,0,0,0,217,0.15,Low,"None",Normal
+U284,2026-09-23T16:05:00.000Z,"Sales","Enterprise Sales Director",6,8,0,13,0,0,0,1,68,0.127,Low,"None",Normal
+U285,2026-09-22T12:00:00.000Z,"Sales","Enterprise Sales Director",4,11,0,5,1,0,0,0,158,0.088,Low,"None",Normal
+U286,2026-09-21T17:16:00.000Z,"IT","Network Engineer",6,7,1,5,2,0,0,0,84,0.057,Low,"None",Normal
+U287,2026-09-28T05:58:00.000Z,"Human Resources","HR Director",5,10,0,10,0,0,0,0,137,0.03,Low,"None",Normal
+U288,2026-09-27T01:52:00.000Z,"Engineering","DevOps Specialist",3,21,0,16,3,0,1,0,306,0.141,Low,"None",Normal
+U289,2026-09-25T18:31:00.000Z,"IT","Security Operator",4,10,0,4,1,1,0,0,297,0.148,Low,"None",Normal
+U290,2026-09-24T16:52:00.000Z,"Sales","Enterprise Sales Director",3,10,0,10,0,0,0,0,154,0.086,Low,"None",Normal
+User_0291,2026-09-24T03:41:00.000Z,"IT","Helpdesk Specialist",18,51,23,64,13,1,1,10,9489,0.853,High,"Data Exfiltration",Threat
+U292,2026-09-22T10:09:00.000Z,"Finance","Financial Analyst",4,15,0,10,1,0,0,0,64,0.024,Low,"None",Normal
+U293,2026-09-21T20:45:00.000Z,"Human Resources","Recruitment Specialist",6,15,0,17,1,0,0,0,223,0.136,Low,"None",Normal
+U294,2026-09-27T15:35:00.000Z,"Finance","Accounts Auditor",4,8,1,14,3,0,0,0,276,0.225,Medium,"None",Normal
+U295,2026-09-26T23:41:00.000Z,"IT","Systems Administrator",3,13,0,4,3,0,0,0,253,0.058,Low,"None",Normal
+U296,2026-09-26T05:18:00.000Z,"IT","Network Engineer",3,19,0,4,0,0,0,0,131,0.107,Low,"None",Normal
+U297,2026-09-25T07:02:00.000Z,"Sales","Customer Success Lead",5,11,0,8,2,0,0,0,187,0.147,Low,"None",Normal
+U298,2026-09-24T07:27:00.000Z,"Finance","Financial Analyst",3,14,0,15,0,0,0,0,117,0.221,Medium,"None",Normal
+U299,2026-09-22T21:28:00.000Z,"Engineering","DevOps Specialist",4,19,1,7,2,0,0,0,280,0.138,Low,"None",Normal
+U300,2026-09-21T13:56:00.000Z,"Engineering","Senior Software Engineer",4,14,0,8,3,1,0,0,179,0.111,Low,"None",Normal
+U301,2026-09-27T19:37:00.000Z,"Finance","Senior Controller",4,11,0,16,0,0,0,0,110,0.04,Low,"None",Normal
+U302,2026-09-27T05:13:00.000Z,"Human Resources","Recruitment Specialist",7,20,0,4,1,0,0,0,272,0.064,Low,"None",Normal
+U303,2026-09-25T20:50:00.000Z,"Finance","Payroll Specialist",6,12,0,13,1,0,0,0,258,0.026,Low,"None",Normal
+U304,2026-09-24T14:27:00.000Z,"Human Resources","HR Director",5,21,0,13,0,0,0,0,264,0.189,Medium,"None",Normal
+U305,2026-09-23T21:25:00.000Z,"IT","Systems Administrator",5,8,1,16,2,0,0,0,297,0.184,Medium,"None",Normal
+U306,2026-09-23T06:11:00.000Z,"Sales","Account Executive",12,26,6,36,13,0,0,4,1448,0.628,Medium,"Privilege Escalation",Threat
+U307,2026-09-21T11:28:00.000Z,"IT","Helpdesk Specialist",4,19,0,14,1,0,0,0,177,0.194,Medium,"None",Normal
+U308,2026-09-28T02:20:00.000Z,"Human Resources","HR Director",5,7,0,5,3,0,0,0,97,0.146,Low,"None",Normal
+U309,2026-09-26T09:12:00.000Z,"IT","Network Engineer",9,34,13,24,12,1,1,3,2708,0.662,Medium,"Privilege Escalation",Threat
+U310,2026-09-26T05:08:00.000Z,"Finance","Senior Controller",6,19,0,9,2,0,0,0,119,0.11,Low,"None",Normal
+U311,2026-09-24T17:22:00.000Z,"Finance","Payroll Specialist",4,9,0,14,1,0,0,0,51,0.17,Low,"None",Normal
+U312,2026-09-23T20:20:00.000Z,"Sales","Enterprise Sales Director",7,61,14,33,12,1,1,10,7737,0.827,High,"Intellectual Property Theft",Threat
+U313,2026-09-22T11:47:00.000Z,"Human Resources","HR Generalist",7,14,0,11,1,0,0,0,170,0.086,Low,"None",Normal
+U314,2026-09-22T00:32:00.000Z,"Human Resources","HR Director",6,16,1,5,0,0,0,0,106,0.165,Low,"None",Normal
+U315,2026-09-27T15:02:00.000Z,"IT","Security Operator",6,12,0,9,2,0,0,0,203,0.233,Medium,"None",Normal
+U316,2026-09-27T01:33:00.000Z,"Finance","Senior Controller",6,21,0,16,2,0,1,0,41,0.101,Low,"None",Normal
+U317,2026-09-25T14:19:00.000Z,"Sales","Account Executive",7,20,1,7,1,0,0,0,203,0.235,Medium,"None",Normal
+U318,2026-09-24T17:28:00.000Z,"Engineering","Cloud Architect",5,9,1,15,1,0,0,0,309,0.202,Medium,"None",Normal
+U319,2026-09-23T12:20:00.000Z,"Engineering","QA Engineer",4,9,0,11,0,0,0,0,105,0.193,Medium,"None",Normal
+U320,2026-09-22T17:31:00.000Z,"Human Resources","HR Generalist",6,12,1,7,3,0,0,0,67,0.139,Low,"None",Normal
+U321,2026-09-21T12:41:00.000Z,"Finance","Senior Controller",11,48,9,19,7,1,1,1,1317,0.618,Medium,"Unauthorized Access",Threat
+U322,2026-09-27T16:33:00.000Z,"Sales","Account Executive",4,21,0,5,2,0,0,0,206,0.054,Low,"None",Normal
+U323,2026-09-27T08:24:00.000Z,"Human Resources","HR Director",4,20,1,16,0,0,0,0,206,0.192,Medium,"None",Normal
+U324,2026-09-25T22:18:00.000Z,"IT","Systems Administrator",6,20,0,11,3,0,0,0,319,0.181,Medium,"None",Normal
+U325,2026-09-24T19:49:00.000Z,"Engineering","QA Engineer",6,8,1,12,0,0,0,0,256,0.063,Low,"None",Normal
+U326,2026-09-23T23:04:00.000Z,"Sales","Customer Success Lead",7,9,1,15,2,0,0,0,186,0.176,Low,"None",Normal
+U327,2026-09-22T16:47:00.000Z,"Sales","Enterprise Sales Director",7,19,0,15,2,0,0,0,157,0.223,Medium,"None",Normal
+U328,2026-09-21T19:07:00.000Z,"Finance","Payroll Specialist",3,18,0,10,0,0,0,0,215,0.214,Medium,"None",Normal
+U329,2026-09-27T22:04:00.000Z,"Sales","Enterprise Sales Director",5,46,13,16,9,0,1,1,1346,0.752,Medium,"Unauthorized Access",Threat
+U330,2026-09-26T18:43:00.000Z,"Engineering","DevOps Specialist",5,9,0,10,2,0,0,0,213,0.163,Low,"None",Normal
+U331,2026-09-25T15:19:00.000Z,"IT","Network Engineer",3,6,0,14,2,0,0,0,71,0.151,Low,"None",Normal
+U332,2026-09-24T15:23:00.000Z,"Finance","Accounts Auditor",4,17,0,6,3,0,0,1,93,0.156,Low,"None",Normal
+U333,2026-09-24T05:16:00.000Z,"Engineering","Senior Software Engineer",10,41,8,24,12,0,1,1,972,0.74,Medium,"Data Exfiltration",Threat
+U334,2026-09-23T08:05:00.000Z,"Sales","Customer Success Lead",4,17,1,14,1,0,1,0,42,0.036,Low,"None",Normal
+U335,2026-09-22T07:15:00.000Z,"IT","Helpdesk Specialist",4,14,0,4,2,0,1,0,249,0.042,Low,"None",Normal
+U336,2026-09-28T04:24:00.000Z,"IT","Network Engineer",5,7,0,8,3,0,0,0,56,0.116,Low,"None",Normal
+U337,2026-09-27T06:43:00.000Z,"Sales","Customer Success Lead",7,8,0,17,2,0,0,0,117,0.042,Low,"None",Normal
+U338,2026-09-25T14:18:00.000Z,"Sales","Account Executive",6,12,0,9,1,0,0,1,170,0.157,Low,"None",Normal
+U339,2026-09-24T22:37:00.000Z,"Sales","Enterprise Sales Director",4,16,0,13,2,0,0,0,198,0.155,Low,"None",Normal
+U340,2026-09-23T19:07:00.000Z,"Finance","Financial Analyst",6,14,0,4,2,0,1,1,53,0.185,Medium,"None",Normal
+U341,2026-09-23T03:41:00.000Z,"Human Resources","HR Director",3,18,0,12,1,0,1,0,49,0.12,Low,"None",Normal
+U342,2026-09-21T22:26:00.000Z,"IT","Security Operator",3,13,0,6,0,0,0,0,186,0.173,Low,"None",Normal
+U343,2026-09-27T22:33:00.000Z,"Finance","Senior Controller",5,6,1,13,0,0,0,0,206,0.152,Low,"None",Normal
+U344,2026-09-26T15:51:00.000Z,"Human Resources","HR Generalist",3,13,1,17,2,1,0,0,144,0.103,Low,"None",Normal
+U345,2026-09-26T08:09:00.000Z,"Human Resources","HR Director",9,71,36,28,16,1,1,4,6332,0.959,High,"Intellectual Property Theft",Threat
+U346,2026-09-25T03:41:00.000Z,"Sales","Account Executive",6,20,1,4,2,0,0,0,188,0.118,Low,"None",Normal
+U347,2026-09-23T22:20:00.000Z,"Finance","Payroll Specialist",4,17,1,16,2,0,0,0,281,0.052,Low,"None",Normal
+U348,2026-09-22T23:58:00.000Z,"Engineering","Cloud Architect",5,17,0,6,1,0,0,1,187,0.162,Low,"None",Normal
+U349,2026-09-21T13:25:00.000Z,"IT","Security Operator",5,14,0,7,1,0,1,0,122,0.065,Low,"None",Normal
+U350,2026-09-27T20:51:00.000Z,"Engineering","Tech Lead",5,10,0,11,2,0,0,1,230,0.166,Low,"None",Normal
+U351,2026-09-26T10:46:00.000Z,"Engineering","DevOps Specialist",3,12,0,17,0,0,0,0,194,0.224,Medium,"None",Normal
+U352,2026-09-25T13:10:00.000Z,"Engineering","DevOps Specialist",5,13,0,5,1,0,0,1,227,0.022,Low,"None",Normal
+U353,2026-09-25T07:33:00.000Z,"Engineering","QA Engineer",3,13,0,5,0,0,0,0,104,0.042,Low,"None",Normal
+U354,2026-09-24T03:48:00.000Z,"IT","Network Engineer",4,19,0,5,1,0,0,0,87,0.192,Medium,"None",Normal
+U355,2026-09-22T19:32:00.000Z,"IT","Network Engineer",4,21,1,5,1,0,1,0,231,0.18,Low,"None",Normal
+U356,2026-09-21T18:35:00.000Z,"Human Resources","Recruitment Specialist",6,20,0,15,2,0,0,1,89,0.162,Low,"None",Normal
+U357,2026-09-28T01:15:00.000Z,"Finance","Financial Analyst",4,6,1,13,1,0,0,0,75,0.15,Low,"None",Normal
+U358,2026-09-27T07:56:00.000Z,"Finance","Senior Controller",3,19,0,15,2,0,0,0,299,0.167,Low,"None",Normal
+U359,2026-09-25T13:07:00.000Z,"Engineering","Senior Software Engineer",5,10,0,8,1,0,0,1,231,0.206,Medium,"None",Normal
+U360,2026-09-24T16:31:00.000Z,"Sales","Enterprise Sales Director",4,8,0,9,2,0,0,0,249,0.087,Low,"None",Normal
+U361,2026-09-24T06:06:00.000Z,"Finance","Accounts Auditor",4,11,0,6,1,0,0,0,245,0.066,Low,"None",Normal
+U362,2026-09-22T09:45:00.000Z,"IT","Systems Administrator",3,8,0,13,3,0,1,0,119,0.222,Medium,"None",Normal
+U363,2026-09-21T13:12:00.000Z,"Human Resources","HR Director",6,8,0,11,2,0,0,0,159,0.19,Medium,"None",Normal
+U364,2026-09-27T19:03:00.000Z,"Finance","Senior Controller",6,13,0,16,3,0,0,0,278,0.137,Low,"None",Normal
+U365,2026-09-27T01:18:00.000Z,"Engineering","Cloud Architect",3,6,0,14,0,0,0,0,258,0.048,Low,"None",Normal
+U366,2026-09-25T12:38:00.000Z,"Sales","Enterprise Sales Director",3,20,0,14,2,0,0,0,142,0.076,Low,"None",Normal
+U367,2026-09-25T03:04:00.000Z,"Sales","Customer Success Lead",6,10,0,12,2,0,0,1,161,0.193,Medium,"None",Normal
+U368,2026-09-23T16:27:00.000Z,"Human Resources","HR Generalist",5,11,1,13,1,0,0,0,181,0.182,Medium,"None",Normal
+U369,2026-09-22T12:49:00.000Z,"IT","Network Engineer",5,19,0,11,0,0,1,0,62,0.127,Low,"None",Normal
+U370,2026-09-21T16:57:00.000Z,"Engineering","DevOps Specialist",7,14,0,8,2,0,0,0,307,0.17,Low,"None",Normal
+U371,2026-09-27T20:09:00.000Z,"Human Resources","HR Director",6,6,0,5,2,0,0,0,260,0.119,Low,"None",Normal
+U372,2026-09-26T15:09:00.000Z,"Finance","Accounts Auditor",7,19,0,11,1,0,1,0,276,0.177,Low,"None",Normal
+U373,2026-09-26T00:49:00.000Z,"IT","Systems Administrator",3,21,0,10,1,0,0,0,142,0.149,Low,"None",Normal
+U374,2026-09-24T10:18:00.000Z,"Engineering","Senior Software Engineer",7,21,1,10,1,0,0,0,110,0.154,Low,"None",Normal
+U375,2026-09-23T10:08:00.000Z,"Sales","Customer Success Lead",3,9,0,9,3,0,0,0,273,0.071,Low,"None",Normal
+U376,2026-09-23T05:10:00.000Z,"Engineering","DevOps Specialist",3,11,0,6,3,0,0,0,298,0.119,Low,"None",Normal
+U377,2026-09-21T15:58:00.000Z,"Finance","Financial Analyst",3,12,0,12,0,0,0,0,74,0.049,Low,"None",Normal
+U378,2026-09-27T17:49:00.000Z,"Sales","Account Executive",5,18,1,4,3,0,0,0,284,0.216,Medium,"None",Normal
+U379,2026-09-26T14:12:00.000Z,"Human Resources","HR Generalist",5,21,0,10,3,1,0,0,124,0.18,Low,"None",Normal
+U380,2026-09-25T11:49:00.000Z,"Finance","Payroll Specialist",3,13,0,9,0,0,0,0,62,0.121,Low,"None",Normal
+U381,2026-09-24T12:00:00.000Z,"Human Resources","HR Director",11,54,35,55,39,1,0,6,3256,0.873,High,"Data Exfiltration",Threat
+U382,2026-09-23T15:49:00.000Z,"Engineering","Tech Lead",4,11,0,17,0,0,0,0,185,0.086,Low,"None",Normal
+U383,2026-09-23T04:01:00.000Z,"Sales","Enterprise Sales Director",4,14,0,12,2,0,0,0,222,0.022,Low,"None",Normal
+U384,2026-09-21T12:00:00.000Z,"Engineering","Cloud Architect",7,15,0,12,3,0,0,0,224,0.034,Low,"None",Normal
+U385,2026-09-27T09:21:00.000Z,"Finance","Financial Analyst",7,7,1,12,3,0,0,0,194,0.202,Medium,"None",Normal
+U386,2026-09-26T23:45:00.000Z,"Engineering","Cloud Architect",6,13,1,10,2,0,0,1,140,0.211,Medium,"None",Normal
+U387,2026-09-25T09:31:00.000Z,"Sales","Enterprise Sales Director",4,20,1,6,3,0,1,0,230,0.06,Low,"None",Normal
+U388,2026-09-25T05:57:00.000Z,"Sales","Account Executive",4,13,0,8,2,0,0,0,114,0.155,Low,"None",Normal
+U389,2026-09-23T19:42:00.000Z,"Human Resources","Recruitment Specialist",7,9,1,11,3,0,0,0,214,0.225,Medium,"None",Normal
+U390,2026-09-23T02:07:00.000Z,"Engineering","DevOps Specialist",3,12,0,13,3,0,1,0,247,0.212,Medium,"None",Normal
+U391,2026-09-21T22:33:00.000Z,"Engineering","QA Engineer",6,16,0,15,3,0,0,0,117,0.189,Medium,"None",Normal
+U392,2026-09-27T10:10:00.000Z,"Engineering","Senior Software Engineer",4,21,0,7,0,1,0,1,138,0.058,Low,"None",Normal
+U393,2026-09-27T00:14:00.000Z,"Human Resources","HR Director",5,16,0,10,0,0,0,0,52,0.026,Low,"None",Normal
+U394,2026-09-25T09:00:00.000Z,"Sales","Account Executive",7,16,0,10,3,0,1,0,88,0.233,Medium,"None",Normal
+U395,2026-09-25T02:18:00.000Z,"IT","Helpdesk Specialist",3,6,0,12,0,0,0,0,194,0.147,Low,"None",Normal
+U396,2026-09-23T09:32:00.000Z,"Human Resources","Recruitment Specialist",6,8,0,7,1,0,1,0,237,0.097,Low,"None",Normal
+U397,2026-09-22T14:59:00.000Z,"Human Resources","HR Director",6,13,0,6,2,0,0,0,54,0.229,Medium,"None",Normal
+U398,2026-09-22T03:27:00.000Z,"Human Resources","HR Generalist",3,7,0,4,1,0,0,1,113,0.127,Low,"None",Normal
+U399,2026-09-28T05:10:00.000Z,"Finance","Financial Analyst",7,8,1,8,0,0,0,0,206,0.04,Low,"None",Normal
+U400,2026-09-26T23:05:00.000Z,"Human Resources","HR Director",4,16,0,11,2,0,0,0,298,0.171,Low,"None",Normal
+U401,2026-09-26T08:24:00.000Z,"Human Resources","Recruitment Specialist",4,6,1,17,3,0,0,0,164,0.047,Low,"None",Normal
+U402,2026-09-25T08:08:00.000Z,"Finance","Senior Controller",6,15,0,14,1,0,0,0,43,0.022,Low,"None",Normal
+U403,2026-09-23T11:35:00.000Z,"Sales","Account Executive",5,16,1,8,0,0,0,0,131,0.032,Low,"None",Normal
+U404,2026-09-22T22:53:00.000Z,"IT","Systems Administrator",7,32,13,32,14,1,1,3,2435,0.577,Medium,"Unauthorized Access",Threat
+U405,2026-09-21T11:28:00.000Z,"Engineering","Tech Lead",5,7,0,9,0,0,0,0,152,0.121,Low,"None",Normal
+U406,2026-09-28T04:48:00.000Z,"Engineering","Tech Lead",4,14,0,15,3,1,0,1,262,0.156,Low,"None",Normal
+U407,2026-09-27T07:18:00.000Z,"Sales","Customer Success Lead",7,12,0,7,1,0,0,0,235,0.044,Low,"None",Normal
+U408,2026-09-25T18:11:00.000Z,"Human Resources","Recruitment Specialist",7,10,0,7,3,0,1,0,277,0.185,Medium,"None",Normal
+U409,2026-09-24T20:45:00.000Z,"IT","Systems Administrator",3,9,1,11,3,0,0,0,124,0.074,Low,"None",Normal
+U410,2026-09-24T04:57:00.000Z,"Sales","Enterprise Sales Director",7,70,20,50,36,1,1,9,6536,0.911,High,"Intellectual Property Theft",Threat
+U411,2026-09-23T00:04:00.000Z,"Finance","Accounts Auditor",3,6,0,6,3,0,0,0,174,0.205,Medium,"None",Normal
+U412,2026-09-22T01:01:00.000Z,"Finance","Payroll Specialist",3,15,0,10,0,0,0,0,286,0.163,Low,"None",Normal
+U413,2026-09-27T20:56:00.000Z,"Human Resources","Recruitment Specialist",4,8,0,9,3,0,0,1,217,0.113,Low,"None",Normal
+U414,2026-09-26T12:04:00.000Z,"IT","Systems Administrator",6,16,0,14,0,0,0,0,51,0.071,Low,"None",Normal
+U415,2026-09-26T07:10:00.000Z,"Human Resources","HR Generalist",6,7,0,12,2,0,0,0,303,0.173,Low,"None",Normal
+U416,2026-09-24T11:05:00.000Z,"IT","Security Operator",3,21,0,6,3,0,0,0,257,0.107,Low,"None",Normal
+U417,2026-09-23T23:49:00.000Z,"Human Resources","HR Generalist",5,15,0,11,3,0,0,0,136,0.059,Low,"None",Normal
+U418,2026-09-23T02:12:00.000Z,"Engineering","Senior Software Engineer",5,10,0,14,1,0,0,0,280,0.14,Low,"None",Normal
+U419,2026-09-22T02:17:00.000Z,"Finance","Senior Controller",4,12,0,8,0,0,0,0,84,0.136,Low,"None",Normal
+U420,2026-09-27T18:59:00.000Z,"Sales","Account Executive",4,6,1,14,2,0,1,0,209,0.236,Medium,"None",Normal
+U421,2026-09-27T05:23:00.000Z,"Engineering","Senior Software Engineer",6,17,0,10,1,0,0,0,56,0.225,Medium,"None",Normal
+U422,2026-09-25T13:48:00.000Z,"Human Resources","HR Generalist",4,19,0,9,2,0,0,0,261,0.199,Medium,"None",Normal
+U423,2026-09-24T16:04:00.000Z,"IT","Network Engineer",3,11,0,17,1,0,0,0,237,0.096,Low,"None",Normal
+U424,2026-09-24T04:45:00.000Z,"Finance","Accounts Auditor",7,14,0,10,0,1,0,0,74,0.164,Low,"None",Normal
+U425,2026-09-22T08:44:00.000Z,"Human Resources","HR Generalist",7,15,0,5,1,0,0,0,46,0.068,Low,"None",Normal
+U426,2026-09-21T14:28:00.000Z,"Finance","Payroll Specialist",6,19,0,16,2,0,0,0,101,0.152,Low,"None",Normal
+U427,2026-09-28T03:52:00.000Z,"IT","Security Operator",5,21,0,7,0,0,0,1,246,0.216,Medium,"None",Normal
+U428,2026-09-26T10:43:00.000Z,"IT","Systems Administrator",6,20,0,12,0,1,0,0,305,0.155,Low,"None",Normal
+U429,2026-09-26T05:23:00.000Z,"IT","Network Engineer",3,21,0,9,2,0,0,0,249,0.163,Low,"None",Normal
+U430,2026-09-24T15:22:00.000Z,"IT","Security Operator",9,27,4,30,6,0,0,2,1869,0.646,Medium,"Data Exfiltration",Threat
+U431,2026-09-23T09:02:00.000Z,"Sales","Enterprise Sales Director",5,12,0,15,1,0,0,0,308,0.2,Medium,"None",Normal
+U432,2026-09-23T05:54:00.000Z,"Finance","Financial Analyst",3,17,1,17,0,0,1,0,234,0.187,Medium,"None",Normal
+U433,2026-09-21T20:39:00.000Z,"Human Resources","HR Generalist",5,11,0,13,3,0,0,0,223,0.217,Medium,"None",Normal
+U434,2026-09-27T22:35:00.000Z,"Sales","Enterprise Sales Director",5,20,0,7,3,0,0,0,228,0.056,Low,"None",Normal
+U435,2026-09-27T05:20:00.000Z,"IT","Helpdesk Specialist",7,12,0,13,3,0,0,0,221,0.176,Low,"None",Normal
+U436,2026-09-25T21:01:00.000Z,"Sales","Customer Success Lead",5,16,0,10,3,0,0,0,115,0.077,Low,"None",Normal
+U437,2026-09-25T08:17:00.000Z,"IT","Systems Administrator",3,7,0,7,0,0,0,0,309,0.111,Low,"None",Normal
+U438,2026-09-23T17:04:00.000Z,"IT","Systems Administrator",3,9,1,13,1,0,0,0,88,0.166,Low,"None",Normal
+U439,2026-09-22T22:14:00.000Z,"IT","Helpdesk Specialist",5,40,7,23,12,1,1,2,1944,0.589,Medium,"Data Exfiltration",Threat
+U440,2026-09-21T20:14:00.000Z,"Human Resources","HR Generalist",3,7,0,17,0,0,1,1,56,0.226,Medium,"None",Normal
+U441,2026-09-27T10:19:00.000Z,"Finance","Senior Controller",7,10,1,13,0,0,0,0,261,0.111,Low,"None",Normal
+U442,2026-09-26T14:37:00.000Z,"Engineering","Cloud Architect",16,46,22,26,39,1,1,4,3351,0.891,High,"Data Exfiltration",Threat
+U443,2026-09-26T03:22:00.000Z,"Human Resources","HR Director",6,18,0,4,2,0,0,0,69,0.17,Low,"None",Normal
+U444,2026-09-25T08:19:00.000Z,"Engineering","Senior Software Engineer",6,19,0,7,3,0,0,0,234,0.143,Low,"None",Normal
+U445,2026-09-24T02:56:00.000Z,"Engineering","Cloud Architect",6,21,0,5,2,0,0,0,76,0.076,Low,"None",Normal
+U446,2026-09-23T04:16:00.000Z,"Finance","Senior Controller",5,11,0,7,0,0,1,1,107,0.078,Low,"None",Normal
+U447,2026-09-22T01:49:00.000Z,"Human Resources","HR Generalist",6,12,0,7,0,0,0,1,225,0.038,Low,"None",Normal
+U448,2026-09-28T06:45:00.000Z,"Human Resources","Recruitment Specialist",6,6,0,13,2,0,0,0,243,0.037,Low,"None",Normal
+U449,2026-09-26T16:10:00.000Z,"Engineering","Tech Lead",3,9,0,7,1,0,0,0,267,0.07,Low,"None",Normal
+U450,2026-09-25T23:05:00.000Z,"Finance","Senior Controller",4,7,0,10,2,0,1,0,278,0.054,Low,"None",Normal
+U451,2026-09-24T23:18:00.000Z,"Engineering","Senior Software Engineer",6,14,0,14,2,0,0,0,285,0.182,Medium,"None",Normal
+U452,2026-09-23T18:23:00.000Z,"Engineering","QA Engineer",7,15,1,10,3,1,0,0,244,0.115,Low,"None",Normal
+U453,2026-09-23T06:45:00.000Z,"IT","Security Operator",7,17,0,11,0,0,0,1,182,0.025,Low,"None",Normal
+U454,2026-09-21T16:29:00.000Z,"Human Resources","HR Generalist",6,26,4,27,15,0,1,2,2231,0.725,Medium,"Unauthorized Access",Threat
+U455,2026-09-27T13:08:00.000Z,"Human Resources","HR Director",3,15,0,6,2,0,0,1,77,0.202,Medium,"None",Normal
+U456,2026-09-26T22:51:00.000Z,"Human Resources","Recruitment Specialist",7,14,0,14,2,0,0,0,126,0.032,Low,"None",Normal
+U457,2026-09-26T07:59:00.000Z,"IT","Network Engineer",3,8,0,4,1,1,0,0,282,0.056,Low,"None",Normal
+U458,2026-09-24T08:42:00.000Z,"Engineering","DevOps Specialist",6,11,0,4,3,0,0,0,181,0.143,Low,"None",Normal
+U459,2026-09-23T23:39:00.000Z,"IT","Systems Administrator",6,17,0,10,3,0,1,0,68,0.036,Low,"None",Normal
+U460,2026-09-23T00:54:00.000Z,"IT","Helpdesk Specialist",3,12,0,4,1,0,1,0,284,0.032,Low,"None",Normal
+U461,2026-09-21T10:56:00.000Z,"IT","Helpdesk Specialist",6,16,0,13,1,1,1,0,194,0.188,Medium,"None",Normal
+U462,2026-09-27T13:39:00.000Z,"Engineering","DevOps Specialist",4,16,1,8,0,0,0,0,123,0.184,Medium,"None",Normal
+U463,2026-09-27T04:03:00.000Z,"Sales","Enterprise Sales Director",5,21,0,8,1,0,0,0,230,0.14,Low,"None",Normal
+U464,2026-09-26T08:30:00.000Z,"Finance","Financial Analyst",6,9,0,12,0,0,0,0,121,0.215,Medium,"None",Normal
+U465,2026-09-24T13:45:00.000Z,"IT","Security Operator",4,17,0,7,1,0,0,0,158,0.082,Low,"None",Normal
+U466,2026-09-24T07:05:00.000Z,"Finance","Payroll Specialist",6,14,0,11,2,0,0,0,112,0.025,Low,"None",Normal
+U467,2026-09-22T16:20:00.000Z,"IT","Systems Administrator",5,12,0,17,0,0,0,0,230,0.183,Medium,"None",Normal
+U468,2026-09-22T00:26:00.000Z,"Human Resources","Recruitment Specialist",6,6,1,6,3,1,0,0,278,0.172,Low,"None",Normal
+U469,2026-09-28T07:38:00.000Z,"IT","Systems Administrator",7,42,11,29,5,1,0,3,1621,0.691,Medium,"Privilege Escalation",Threat
+U470,2026-09-26T20:16:00.000Z,"Human Resources","HR Director",12,33,11,27,12,0,0,2,1178,0.734,Medium,"Data Exfiltration",Threat
+U471,2026-09-25T20:41:00.000Z,"Sales","Enterprise Sales Director",4,19,0,15,2,0,0,0,232,0.163,Low,"None",Normal
+U472,2026-09-24T14:12:00.000Z,"Sales","Customer Success Lead",7,8,0,6,0,0,0,1,272,0.102,Low,"None",Normal
+U473,2026-09-23T17:23:00.000Z,"Sales","Enterprise Sales Director",7,18,0,11,0,0,0,1,245,0.211,Medium,"None",Normal
+U474,2026-09-22T16:41:00.000Z,"IT","Security Operator",4,9,0,17,0,0,0,1,48,0.186,Medium,"None",Normal
+U475,2026-09-22T04:51:00.000Z,"Human Resources","HR Generalist",3,16,0,8,3,0,0,0,252,0.155,Low,"None",Normal
+U476,2026-09-27T18:00:00.000Z,"Human Resources","HR Generalist",6,18,0,15,1,0,0,0,275,0.127,Low,"None",Normal
+U477,2026-09-27T06:15:00.000Z,"Sales","Customer Success Lead",4,14,0,4,2,0,1,1,227,0.178,Low,"None",Normal
+U478,2026-09-25T09:17:00.000Z,"Sales","Customer Success Lead",18,76,36,33,25,0,1,7,3541,0.82,High,"Data Exfiltration",Threat
+U479,2026-09-25T07:16:00.000Z,"Engineering","Senior Software Engineer",6,16,1,11,1,1,0,0,156,0.075,Low,"None",Normal
+U480,2026-09-24T04:48:00.000Z,"Sales","Account Executive",5,19,0,4,1,1,0,1,86,0.046,Low,"None",Normal
+U481,2026-09-23T07:49:00.000Z,"IT","Helpdesk Specialist",6,15,1,9,1,0,0,0,51,0.21,Medium,"None",Normal
+U482,2026-09-22T06:10:00.000Z,"Human Resources","HR Director",5,13,0,10,3,0,0,0,273,0.181,Medium,"None",Normal
+U483,2026-09-28T00:50:00.000Z,"Engineering","QA Engineer",5,12,0,15,1,0,0,0,317,0.183,Medium,"None",Normal
+U484,2026-09-26T18:33:00.000Z,"Engineering","Tech Lead",3,8,0,7,1,0,0,0,284,0.2,Medium,"None",Normal
+U485,2026-09-26T05:34:00.000Z,"Finance","Financial Analyst",6,13,0,5,1,0,0,0,137,0.191,Medium,"None",Normal
+U486,2026-09-24T08:48:00.000Z,"Human Resources","HR Director",4,9,1,16,1,0,0,0,297,0.181,Medium,"None",Normal
+U487,2026-09-24T04:05:00.000Z,"Finance","Payroll Specialist",5,7,0,14,2,0,0,0,313,0.125,Low,"None",Normal
+U488,2026-09-22T09:16:00.000Z,"Human Resources","Recruitment Specialist",4,21,0,9,3,0,0,0,264,0.197,Medium,"None",Normal
+U489,2026-09-22T07:14:00.000Z,"Finance","Financial Analyst",7,12,0,4,2,0,0,0,114,0.097,Low,"None",Normal
+U490,2026-09-27T23:37:00.000Z,"IT","Network Engineer",5,19,0,8,3,0,0,1,44,0.187,Medium,"None",Normal
+U491,2026-09-26T22:20:00.000Z,"Human Resources","Recruitment Specialist",6,10,0,12,3,0,0,0,237,0.184,Medium,"None",Normal
+U492,2026-09-25T18:48:00.000Z,"Human Resources","Recruitment Specialist",5,10,0,15,1,1,0,0,312,0.081,Low,"None",Normal
+U493,2026-09-24T21:55:00.000Z,"Engineering","Senior Software Engineer",3,18,0,6,3,0,0,0,249,0.152,Low,"None",Normal
+U494,2026-09-23T19:18:00.000Z,"Engineering","Cloud Architect",3,11,0,6,1,0,0,0,127,0.198,Medium,"None",Normal
+U495,2026-09-22T21:27:00.000Z,"Engineering","Cloud Architect",4,16,0,11,1,0,0,0,161,0.025,Low,"None",Normal
+U496,2026-09-21T09:33:00.000Z,"Finance","Financial Analyst",7,10,0,17,1,0,0,0,120,0.208,Medium,"None",Normal
+U497,2026-09-27T23:47:00.000Z,"Sales","Account Executive",7,6,0,13,0,0,1,0,49,0.23,Medium,"None",Normal
+U498,2026-09-26T21:26:00.000Z,"Sales","Account Executive",3,19,0,4,1,0,1,0,87,0.063,Low,"None",Normal
+U499,2026-09-26T07:20:00.000Z,"Sales","Account Executive",5,10,0,4,3,1,0,0,77,0.231,Medium,"None",Normal
+U500,2026-09-24T10:37:00.000Z,"Finance","Financial Analyst",4,14,0,14,2,0,1,0,139,0.228,Medium,"None",Normal
+U501,2026-09-23T23:30:00.000Z,"Engineering","QA Engineer",3,20,0,4,2,0,0,0,117,0.123,Low,"None",Normal
+U502,2026-09-22T17:09:00.000Z,"Engineering","Senior Software Engineer",7,10,1,6,2,1,0,0,91,0.029,Low,"None",Normal
+U503,2026-09-22T04:56:00.000Z,"IT","Systems Administrator",7,9,0,13,0,0,0,0,224,0.124,Low,"None",Normal
+U504,2026-09-28T06:53:00.000Z,"Engineering","QA Engineer",3,17,0,17,1,0,0,0,190,0.222,Medium,"None",Normal
+U505,2026-09-27T06:38:00.000Z,"Finance","Accounts Auditor",3,7,1,4,0,0,0,0,272,0.159,Low,"None",Normal
+U506,2026-09-26T02:12:00.000Z,"Human Resources","Recruitment Specialist",6,6,0,12,1,1,1,0,173,0.216,Medium,"None",Normal
+U507,2026-09-24T16:30:00.000Z,"IT","Systems Administrator",7,14,0,15,3,0,0,0,247,0.036,Low,"None",Normal
+U508,2026-09-23T17:57:00.000Z,"IT","Systems Administrator",4,13,0,16,1,0,0,1,316,0.133,Low,"None",Normal
+U509,2026-09-22T09:35:00.000Z,"Sales","Enterprise Sales Director",5,7,0,5,2,0,0,0,295,0.155,Low,"None",Normal
+U510,2026-09-21T21:18:00.000Z,"Human Resources","HR Generalist",13,40,21,40,35,1,1,6,3263,0.809,High,"Intellectual Property Theft",Threat
+U511,2026-09-27T13:42:00.000Z,"IT","Network Engineer",5,14,0,5,2,1,0,0,261,0.139,Low,"None",Normal
+U512,2026-09-27T03:56:00.000Z,"IT","Security Operator",3,6,1,10,3,1,0,0,266,0.154,Low,"None",Normal
+U513,2026-09-26T07:42:00.000Z,"Sales","Enterprise Sales Director",5,8,0,13,0,0,0,0,99,0.216,Medium,"None",Normal
+U514,2026-09-24T14:52:00.000Z,"Engineering","QA Engineer",4,8,0,13,0,0,0,0,292,0.231,Medium,"None",Normal
+U515,2026-09-24T02:51:00.000Z,"Human Resources","Recruitment Specialist",7,8,0,15,1,0,0,1,56,0.108,Low,"None",Normal
+U516,2026-09-22T22:10:00.000Z,"Sales","Customer Success Lead",7,19,0,16,2,0,0,0,306,0.043,Low,"None",Normal
+U517,2026-09-22T08:21:00.000Z,"Engineering","QA Engineer",7,13,0,14,3,0,0,0,81,0.132,Low,"None",Normal
+U518,2026-09-27T20:40:00.000Z,"Human Resources","HR Director",6,9,1,6,1,0,0,0,119,0.087,Low,"None",Normal
+U519,2026-09-26T13:01:00.000Z,"IT","Systems Administrator",4,8,0,9,0,0,0,1,107,0.147,Low,"None",Normal
+U520,2026-09-25T13:04:00.000Z,"Finance","Accounts Auditor",4,21,1,4,1,0,0,0,129,0.16,Low,"None",Normal
+U521,2026-09-25T02:56:00.000Z,"IT","Systems Administrator",7,18,1,8,1,1,0,0,287,0.234,Medium,"None",Normal
+U522,2026-09-23T17:59:00.000Z,"Human Resources","HR Generalist",5,13,0,16,1,0,0,0,88,0.032,Low,"None",Normal
+U523,2026-09-23T08:24:00.000Z,"Sales","Enterprise Sales Director",3,8,1,13,1,0,1,1,191,0.219,Medium,"None",Normal
+U524,2026-09-22T08:30:00.000Z,"IT","Helpdesk Specialist",5,18,1,13,2,0,0,1,311,0.226,Medium,"None",Normal
+U525,2026-09-28T07:37:00.000Z,"IT","Systems Administrator",3,10,0,15,3,0,0,0,74,0.166,Low,"None",Normal
+U526,2026-09-27T02:14:00.000Z,"IT","Security Operator",5,21,0,11,0,0,0,0,204,0.07,Low,"None",Normal
+U527,2026-09-26T08:05:00.000Z,"Human Resources","HR Generalist",4,11,1,16,2,0,0,1,53,0.187,Medium,"None",Normal
+U528,2026-09-25T01:10:00.000Z,"Human Resources","HR Director",7,14,1,12,0,0,0,1,142,0.02,Low,"None",Normal
+U529,2026-09-24T06:58:00.000Z,"Sales","Account Executive",5,14,0,17,1,1,0,1,275,0.07,Low,"None",Normal
+U530,2026-09-22T19:40:00.000Z,"Sales","Customer Success Lead",6,9,1,14,1,0,0,1,252,0.029,Low,"None",Normal
+U531,2026-09-22T06:02:00.000Z,"IT","Security Operator",5,13,0,12,3,0,0,0,178,0.13,Low,"None",Normal
+U532,2026-09-28T01:32:00.000Z,"Sales","Account Executive",5,10,0,13,3,0,0,1,235,0.105,Low,"None",Normal
+U533,2026-09-26T16:10:00.000Z,"Human Resources","HR Director",5,19,0,13,2,0,0,0,223,0.063,Low,"None",Normal
+U534,2026-09-26T03:55:00.000Z,"Human Resources","HR Generalist",6,10,0,17,3,0,0,0,257,0.021,Low,"None",Normal
+U535,2026-09-25T06:16:00.000Z,"Sales","Enterprise Sales Director",4,9,0,5,1,0,0,1,283,0.168,Low,"None",Normal
+U536,2026-09-23T20:16:00.000Z,"Human Resources","Recruitment Specialist",7,12,0,4,3,0,0,0,169,0.056,Low,"None",Normal
+U537,2026-09-22T16:21:00.000Z,"Engineering","Senior Software Engineer",5,12,0,12,2,1,0,1,222,0.153,Low,"None",Normal
+U538,2026-09-22T01:30:00.000Z,"Engineering","Cloud Architect",3,7,0,10,2,0,0,0,95,0.231,Medium,"None",Normal
+U539,2026-09-27T16:15:00.000Z,"Finance","Accounts Auditor",3,18,0,11,3,0,0,0,281,0.2,Medium,"None",Normal
+U540,2026-09-27T02:58:00.000Z,"Engineering","Tech Lead",6,20,0,6,0,0,1,0,114,0.103,Low,"None",Normal
+U541,2026-09-26T07:58:00.000Z,"IT","Network Engineer",4,15,0,15,0,0,0,0,252,0.121,Low,"None",Normal
+U542,2026-09-24T13:27:00.000Z,"Engineering","Cloud Architect",8,57,23,30,38,1,1,4,3545,0.857,High,"Intellectual Property Theft",Threat
+U543,2026-09-23T15:38:00.000Z,"Human Resources","Recruitment Specialist",3,21,1,13,0,0,0,0,104,0.038,Low,"None",Normal
+U544,2026-09-23T01:39:00.000Z,"Engineering","Senior Software Engineer",6,19,0,14,3,0,0,0,64,0.071,Low,"None",Normal
+U545,2026-09-21T21:30:00.000Z,"Sales","Account Executive",4,13,0,17,1,0,0,0,101,0.077,Low,"None",Normal
+U546,2026-09-27T11:17:00.000Z,"Sales","Account Executive",7,15,1,10,3,0,0,0,192,0.145,Low,"None",Normal
+U547,2026-09-27T02:00:00.000Z,"IT","Security Operator",5,18,0,11,3,0,1,0,185,0.069,Low,"None",Normal
+U548,2026-09-25T09:33:00.000Z,"Sales","Customer Success Lead",6,20,0,9,0,0,0,0,77,0.083,Low,"None",Normal
+U549,2026-09-24T19:25:00.000Z,"IT","Systems Administrator",4,19,1,13,0,0,0,0,60,0.138,Low,"None",Normal
+U550,2026-09-23T09:00:00.000Z,"IT","Network Engineer",7,19,1,10,3,0,0,1,161,0.063,Low,"None",Normal
+U551,2026-09-22T17:33:00.000Z,"IT","Helpdesk Specialist",3,20,0,17,0,0,0,0,164,0.192,Medium,"None",Normal
+U552,2026-09-22T02:18:00.000Z,"Human Resources","Recruitment Specialist",5,13,0,12,1,0,0,0,242,0.125,Low,"None",Normal
+U553,2026-09-28T02:47:00.000Z,"Human Resources","Recruitment Specialist",3,21,0,8,1,0,0,0,179,0.084,Low,"None",Normal
+U554,2026-09-26T19:50:00.000Z,"IT","Helpdesk Specialist",4,8,0,13,1,0,0,0,185,0.17,Low,"None",Normal
+U555,2026-09-25T14:04:00.000Z,"Engineering","Senior Software Engineer",3,16,0,11,1,0,0,0,140,0.066,Low,"None",Normal
+U556,2026-09-24T17:51:00.000Z,"Sales","Enterprise Sales Director",4,9,0,15,1,1,0,0,59,0.093,Low,"None",Normal
+U557,2026-09-24T02:57:00.000Z,"Sales","Customer Success Lead",5,16,0,7,2,0,0,0,314,0.098,Low,"None",Normal
+U558,2026-09-23T01:14:00.000Z,"Human Resources","Recruitment Specialist",3,20,0,10,0,0,1,0,233,0.061,Low,"None",Normal
+U559,2026-09-21T12:19:00.000Z,"IT","Security Operator",7,19,0,5,0,0,0,0,162,0.075,Low,"None",Normal
+U560,2026-09-27T10:23:00.000Z,"IT","Network Engineer",5,11,0,15,0,0,0,0,261,0.076,Low,"None",Normal
+U561,2026-09-26T11:30:00.000Z,"Engineering","Senior Software Engineer",6,7,1,13,2,0,0,0,296,0.178,Low,"None",Normal
+U562,2026-09-26T04:24:00.000Z,"IT","Helpdesk Specialist",5,24,6,29,6,0,0,1,988,0.737,Medium,"Data Exfiltration",Threat
+U563,2026-09-24T16:45:00.000Z,"Sales","Customer Success Lead",4,8,0,9,2,0,0,0,175,0.204,Medium,"None",Normal
+U564,2026-09-24T00:32:00.000Z,"Engineering","QA Engineer",4,8,0,14,0,0,0,0,160,0.038,Low,"None",Normal
+U565,2026-09-23T03:19:00.000Z,"Human Resources","HR Generalist",8,47,9,24,9,1,1,3,2615,0.586,Medium,"Unauthorized Access",Threat
+U566,2026-09-21T14:51:00.000Z,"Finance","Accounts Auditor",7,19,0,9,1,0,0,0,227,0.159,Low,"None",Normal
+U567,2026-09-27T13:24:00.000Z,"Human Resources","Recruitment Specialist",4,8,0,14,2,0,0,0,219,0.186,Medium,"None",Normal
+U568,2026-09-26T20:13:00.000Z,"IT","Security Operator",6,11,0,7,1,0,0,0,100,0.031,Low,"None",Normal
+U569,2026-09-25T08:39:00.000Z,"Finance","Financial Analyst",6,6,0,11,2,0,0,0,277,0.052,Low,"None",Normal
+U570,2026-09-24T16:56:00.000Z,"IT","Security Operator",3,9,0,5,3,0,0,0,180,0.12,Low,"None",Normal
+U571,2026-09-24T04:01:00.000Z,"Sales","Customer Success Lead",4,10,0,8,2,0,0,0,96,0.15,Low,"None",Normal
+U572,2026-09-22T11:19:00.000Z,"Engineering","Senior Software Engineer",5,16,0,14,2,1,0,0,304,0.16,Low,"None",Normal
+U573,2026-09-21T09:53:00.000Z,"Sales","Account Executive",3,7,0,9,3,0,0,0,101,0.161,Low,"None",Normal
+U574,2026-09-27T21:42:00.000Z,"Finance","Payroll Specialist",5,10,0,15,2,1,1,0,259,0.225,Medium,"None",Normal
+U575,2026-09-26T22:15:00.000Z,"Engineering","DevOps Specialist",7,15,0,7,0,0,1,0,262,0.153,Low,"None",Normal
+U576,2026-09-25T14:17:00.000Z,"Engineering","Cloud Architect",4,12,0,4,2,0,0,0,246,0.208,Medium,"None",Normal
+U577,2026-09-25T01:18:00.000Z,"Sales","Customer Success Lead",7,8,1,14,0,0,0,0,302,0.116,Low,"None",Normal
+U578,2026-09-23T18:49:00.000Z,"Engineering","DevOps Specialist",18,62,17,51,40,1,1,5,7703,0.923,High,"Privilege Escalation",Threat
+U579,2026-09-22T13:47:00.000Z,"Finance","Senior Controller",3,21,1,10,0,0,0,0,285,0.187,Medium,"None",Normal
+U580,2026-09-22T02:12:00.000Z,"Engineering","Cloud Architect",12,35,12,35,8,0,0,4,2872,0.622,Medium,"Privilege Escalation",Threat
+U581,2026-09-27T13:12:00.000Z,"Human Resources","Recruitment Specialist",4,13,1,15,2,0,1,0,117,0.196,Medium,"None",Normal
+U582,2026-09-26T15:31:00.000Z,"Human Resources","HR Generalist",7,11,0,11,2,0,0,0,250,0.148,Low,"None",Normal
+U583,2026-09-25T20:13:00.000Z,"Finance","Financial Analyst",7,16,0,13,3,0,0,0,133,0.195,Medium,"None",Normal
+U584,2026-09-25T04:29:00.000Z,"Finance","Financial Analyst",3,19,0,6,3,0,0,0,252,0.043,Low,"None",Normal
+U585,2026-09-23T23:33:00.000Z,"Human Resources","HR Generalist",5,13,0,6,0,0,0,0,237,0.119,Low,"None",Normal
+U586,2026-09-23T06:26:00.000Z,"IT","Systems Administrator",7,17,1,11,2,0,0,0,225,0.183,Medium,"None",Normal
+U587,2026-09-22T03:01:00.000Z,"Sales","Enterprise Sales Director",7,10,0,5,0,0,0,0,242,0.115,Low,"None",Normal
+U588,2026-09-28T02:29:00.000Z,"Human Resources","HR Director",6,9,0,8,2,0,0,0,94,0.115,Low,"None",Normal
+U589,2026-09-26T22:52:00.000Z,"Human Resources","HR Director",8,47,8,21,10,0,0,1,2866,0.692,Medium,"Unauthorized Access",Threat
+U590,2026-09-25T20:56:00.000Z,"Sales","Customer Success Lead",7,12,0,7,1,0,0,1,87,0.208,Medium,"None",Normal
+U591,2026-09-25T07:40:00.000Z,"Engineering","DevOps Specialist",5,15,0,7,3,1,0,0,133,0.181,Medium,"None",Normal
+U592,2026-09-23T13:29:00.000Z,"Engineering","DevOps Specialist",7,12,0,6,1,0,0,0,204,0.147,Low,"None",Normal
+U593,2026-09-22T17:18:00.000Z,"Sales","Customer Success Lead",6,20,1,10,3,0,1,1,134,0.218,Medium,"None",Normal
+U594,2026-09-22T04:31:00.000Z,"Human Resources","Recruitment Specialist",5,11,0,17,3,1,0,0,176,0.215,Medium,"None",Normal
+U595,2026-09-27T18:59:00.000Z,"Sales","Enterprise Sales Director",3,6,0,7,2,0,0,0,69,0.099,Low,"None",Normal
+U596,2026-09-27T01:09:00.000Z,"IT","Network Engineer",5,20,0,17,0,0,0,0,139,0.149,Low,"None",Normal
+U597,2026-09-26T06:17:00.000Z,"IT","Security Operator",3,10,0,15,1,0,0,0,258,0.034,Low,"None",Normal
+U598,2026-09-25T02:06:00.000Z,"IT","Network Engineer",5,20,0,8,2,0,0,0,184,0.067,Low,"None",Normal
+U599,2026-09-24T02:14:00.000Z,"Sales","Customer Success Lead",5,15,0,6,0,0,1,0,41,0.215,Medium,"None",Normal
+U600,2026-09-22T14:48:00.000Z,"Sales","Customer Success Lead",3,14,0,10,3,0,0,0,204,0.217,Medium,"None",Normal
+U601,2026-09-21T22:54:00.000Z,"Engineering","Tech Lead",3,6,0,17,3,0,0,0,153,0.197,Medium,"None",Normal
+U602,2026-09-28T05:17:00.000Z,"Finance","Financial Analyst",7,20,0,13,0,0,0,1,223,0.059,Low,"None",Normal
+U603,2026-09-26T23:01:00.000Z,"Finance","Payroll Specialist",4,18,0,6,1,0,1,0,106,0.03,Low,"None",Normal
+U604,2026-09-25T23:47:00.000Z,"Human Resources","HR Generalist",3,7,0,17,1,0,0,0,216,0.215,Medium,"None",Normal
+U605,2026-09-24T23:42:00.000Z,"IT","Systems Administrator",3,18,0,6,3,0,0,0,285,0.085,Low,"None",Normal
+U606,2026-09-24T01:43:00.000Z,"Sales","Account Executive",7,16,0,7,0,0,0,0,214,0.044,Low,"None",Normal
+U607,2026-09-22T16:22:00.000Z,"Finance","Financial Analyst",4,19,0,15,3,0,0,1,248,0.072,Low,"None",Normal
+U608,2026-09-21T18:31:00.000Z,"Finance","Accounts Auditor",5,14,0,10,2,0,0,0,78,0.021,Low,"None",Normal
+U609,2026-09-27T17:27:00.000Z,"IT","Network Engineer",4,12,0,15,0,0,0,0,151,0.071,Low,"None",Normal
+U610,2026-09-26T17:42:00.000Z,"IT","Helpdesk Specialist",15,41,22,25,18,0,1,6,5418,0.819,High,"Intellectual Property Theft",Threat
+U611,2026-09-25T14:18:00.000Z,"Human Resources","HR Generalist",6,8,0,13,0,0,0,0,73,0.064,Low,"None",Normal
+U612,2026-09-25T02:30:00.000Z,"Finance","Senior Controller",5,10,0,10,0,0,0,0,258,0.155,Low,"None",Normal
+U613,2026-09-24T00:59:00.000Z,"Engineering","Senior Software Engineer",5,14,0,17,3,0,0,0,211,0.022,Low,"None",Normal
+U614,2026-09-22T20:42:00.000Z,"Human Resources","HR Director",4,7,1,13,2,0,0,0,139,0.239,Medium,"None",Normal
+U615,2026-09-22T01:12:00.000Z,"IT","Systems Administrator",4,8,0,4,2,0,0,0,84,0.165,Low,"None",Normal
+U616,2026-09-27T20:01:00.000Z,"Engineering","Cloud Architect",7,16,0,8,0,0,0,0,109,0.204,Medium,"None",Normal
+U617,2026-09-27T01:01:00.000Z,"IT","Network Engineer",5,15,1,14,2,0,0,0,46,0.226,Medium,"None",Normal
+U618,2026-09-25T11:56:00.000Z,"Finance","Senior Controller",3,20,0,5,1,0,0,0,120,0.156,Low,"None",Normal
+U619,2026-09-24T21:58:00.000Z,"IT","Security Operator",4,17,0,7,0,0,0,1,126,0.132,Low,"None",Normal
+U620,2026-09-24T00:24:00.000Z,"Engineering","QA Engineer",4,11,0,12,2,0,0,0,97,0.052,Low,"None",Normal
+U621,2026-09-23T04:39:00.000Z,"IT","Systems Administrator",6,16,0,9,0,0,0,0,218,0.216,Medium,"None",Normal
+U622,2026-09-21T14:33:00.000Z,"Sales","Customer Success Lead",6,10,0,17,1,0,0,0,240,0.048,Low,"None",Normal
+U623,2026-09-27T17:36:00.000Z,"IT","Helpdesk Specialist",7,9,0,11,2,0,0,0,137,0.126,Low,"None",Normal
+U624,2026-09-27T05:26:00.000Z,"Human Resources","Recruitment Specialist",3,14,0,6,2,0,0,1,239,0.218,Medium,"None",Normal
+U625,2026-09-25T15:09:00.000Z,"Sales","Account Executive",7,10,0,10,2,0,0,0,302,0.063,Low,"None",Normal
+U626,2026-09-25T02:18:00.000Z,"Human Resources","HR Generalist",5,7,0,9,2,0,0,0,106,0.148,Low,"None",Normal
+U627,2026-09-24T07:21:00.000Z,"Human Resources","Recruitment Specialist",5,19,0,12,1,0,0,0,42,0.227,Medium,"None",Normal
+U628,2026-09-22T11:46:00.000Z,"Human Resources","HR Director",3,8,0,8,1,0,1,0,143,0.139,Low,"None",Normal
+U629,2026-09-21T15:48:00.000Z,"Finance","Financial Analyst",5,7,0,12,3,0,0,0,231,0.112,Low,"None",Normal
+U630,2026-09-28T07:26:00.000Z,"Finance","Financial Analyst",4,18,1,13,3,0,0,0,45,0.169,Low,"None",Normal
+U631,2026-09-26T20:30:00.000Z,"IT","Helpdesk Specialist",6,14,1,6,2,0,0,1,316,0.052,Low,"None",Normal
+U632,2026-09-26T01:05:00.000Z,"Engineering","Tech Lead",5,8,0,17,1,0,1,0,228,0.105,Low,"None",Normal
+U633,2026-09-24T08:31:00.000Z,"Engineering","Senior Software Engineer",5,20,0,5,3,0,0,0,125,0.054,Low,"None",Normal
+U634,2026-09-23T16:13:00.000Z,"Engineering","DevOps Specialist",7,16,0,8,1,0,0,0,245,0.06,Low,"None",Normal
+U635,2026-09-22T21:38:00.000Z,"Human Resources","Recruitment Specialist",5,20,0,11,3,0,0,0,118,0.131,Low,"None",Normal
+U636,2026-09-21T15:30:00.000Z,"Human Resources","Recruitment Specialist",4,11,0,14,1,0,0,1,316,0.122,Low,"None",Normal
+U637,2026-09-27T21:43:00.000Z,"Engineering","DevOps Specialist",5,13,0,16,1,0,1,0,200,0.159,Low,"None",Normal
+U638,2026-09-27T06:40:00.000Z,"Finance","Accounts Auditor",6,7,0,8,0,0,0,0,208,0.178,Low,"None",Normal
+U639,2026-09-26T08:17:00.000Z,"Engineering","Tech Lead",6,20,0,6,0,0,0,0,116,0.025,Low,"None",Normal
+U640,2026-09-24T10:07:00.000Z,"Human Resources","Recruitment Specialist",12,38,11,25,12,0,0,1,2134,0.675,Medium,"Data Exfiltration",Threat
+U641,2026-09-24T05:47:00.000Z,"Human Resources","HR Director",4,7,1,11,1,0,0,1,259,0.11,Low,"None",Normal
+U642,2026-09-23T01:30:00.000Z,"Finance","Accounts Auditor",4,11,0,13,2,0,0,0,319,0.085,Low,"None",Normal
+U643,2026-09-21T21:44:00.000Z,"IT","Helpdesk Specialist",4,8,0,4,2,0,0,0,72,0.171,Low,"None",Normal
+U644,2026-09-27T17:17:00.000Z,"Sales","Enterprise Sales Director",3,17,0,11,2,0,0,0,309,0.05,Low,"None",Normal
+U645,2026-09-26T15:54:00.000Z,"IT","Systems Administrator",3,21,0,8,1,0,0,0,232,0.122,Low,"None",Normal
+U646,2026-09-25T18:26:00.000Z,"Human Resources","HR Director",5,13,0,13,1,0,0,0,189,0.176,Low,"None",Normal
+U647,2026-09-24T23:05:00.000Z,"Finance","Financial Analyst",5,14,0,7,1,0,0,0,88,0.155,Low,"None",Normal
+U648,2026-09-23T16:57:00.000Z,"Sales","Account Executive",6,17,0,11,2,0,1,0,117,0.075,Low,"None",Normal
+U649,2026-09-22T20:11:00.000Z,"Finance","Payroll Specialist",6,14,0,4,2,1,1,0,242,0.182,Medium,"None",Normal
+U650,2026-09-22T00:59:00.000Z,"Engineering","QA Engineer",7,18,0,9,3,0,0,0,315,0.193,Medium,"None",Normal
+U651,2026-09-27T17:06:00.000Z,"Finance","Accounts Auditor",7,21,0,4,3,0,0,0,105,0.205,Medium,"None",Normal
+U652,2026-09-26T16:14:00.000Z,"Sales","Enterprise Sales Director",7,14,0,8,2,0,0,0,206,0.217,Medium,"None",Normal
+U653,2026-09-25T12:13:00.000Z,"IT","Security Operator",3,17,0,4,3,0,1,0,239,0.122,Low,"None",Normal
+U654,2026-09-25T06:15:00.000Z,"Engineering","DevOps Specialist",3,17,0,10,0,0,0,0,200,0.206,Medium,"None",Normal
+U655,2026-09-24T00:25:00.000Z,"Sales","Enterprise Sales Director",6,42,5,31,7,0,1,4,2994,0.563,Medium,"Data Exfiltration",Threat
+U656,2026-09-22T19:35:00.000Z,"Finance","Senior Controller",4,11,0,15,1,0,1,0,278,0.031,Low,"None",Normal
+U657,2026-09-21T19:33:00.000Z,"Human Resources","HR Generalist",7,19,1,9,3,0,0,0,79,0.123,Low,"None",Normal
+U658,2026-09-27T16:08:00.000Z,"Engineering","Tech Lead",7,10,0,10,2,0,1,0,218,0.191,Medium,"None",Normal
+U659,2026-09-27T02:39:00.000Z,"IT","Security Operator",4,14,0,11,3,0,0,1,207,0.028,Low,"None",Normal
+U660,2026-09-25T20:22:00.000Z,"Engineering","DevOps Specialist",12,37,12,25,15,1,1,1,2332,0.691,Medium,"Privilege Escalation",Threat
+U661,2026-09-25T01:07:00.000Z,"Sales","Enterprise Sales Director",7,12,0,14,3,0,0,0,65,0.071,Low,"None",Normal
+U662,2026-09-24T06:28:00.000Z,"Engineering","DevOps Specialist",6,18,1,6,3,0,0,0,287,0.156,Low,"None",Normal
+U663,2026-09-23T06:22:00.000Z,"IT","Systems Administrator",10,45,6,21,5,0,1,3,1445,0.654,Medium,"Privilege Escalation",Threat
+U664,2026-09-22T00:57:00.000Z,"Engineering","DevOps Specialist",4,20,0,9,3,0,0,0,268,0.152,Low,"None",Normal
+U665,2026-09-27T22:28:00.000Z,"Finance","Financial Analyst",3,18,0,6,2,0,0,0,293,0.14,Low,"None",Normal
+U666,2026-09-26T21:27:00.000Z,"Finance","Accounts Auditor",6,12,0,16,2,0,1,0,193,0.106,Low,"None",Normal
+U667,2026-09-26T07:10:00.000Z,"IT","Systems Administrator",7,7,1,11,2,0,0,0,297,0.033,Low,"None",Normal
+U668,2026-09-25T02:47:00.000Z,"Sales","Customer Success Lead",5,48,4,24,15,1,1,4,2925,0.556,Medium,"Privilege Escalation",Threat
+U669,2026-09-24T01:39:00.000Z,"Human Resources","Recruitment Specialist",5,6,0,17,3,0,1,1,212,0.205,Medium,"None",Normal
+U670,2026-09-23T07:49:00.000Z,"Sales","Account Executive",6,13,0,9,3,0,0,0,139,0.134,Low,"None",Normal
+U671,2026-09-22T05:10:00.000Z,"IT","Systems Administrator",3,19,0,9,1,1,0,0,194,0.115,Low,"None",Normal
+U672,2026-09-27T17:29:00.000Z,"IT","Helpdesk Specialist",7,6,0,15,2,0,0,0,305,0.076,Low,"None",Normal
+U673,2026-09-27T06:45:00.000Z,"Human Resources","Recruitment Specialist",11,39,9,16,14,0,0,1,3019,0.764,Medium,"Unauthorized Access",Threat
+U674,2026-09-25T13:50:00.000Z,"Engineering","Tech Lead",4,20,0,12,3,0,0,0,158,0.027,Low,"None",Normal
+U675,2026-09-24T13:32:00.000Z,"Engineering","Tech Lead",4,15,0,7,3,0,0,0,182,0.226,Medium,"None",Normal
+U676,2026-09-23T12:26:00.000Z,"IT","Security Operator",7,14,0,11,2,0,0,0,223,0.058,Low,"None",Normal
+U677,2026-09-22T14:17:00.000Z,"Sales","Customer Success Lead",3,14,1,4,3,0,0,1,114,0.194,Medium,"None",Normal
+U678,2026-09-21T15:26:00.000Z,"Sales","Customer Success Lead",3,13,0,5,3,0,0,0,211,0.071,Low,"None",Normal
+U679,2026-09-27T15:14:00.000Z,"Engineering","QA Engineer",5,14,1,9,0,0,1,0,103,0.057,Low,"None",Normal
+U680,2026-09-26T11:44:00.000Z,"Human Resources","HR Generalist",3,20,0,6,2,1,0,0,64,0.089,Low,"None",Normal
+U681,2026-09-25T11:09:00.000Z,"Sales","Customer Success Lead",7,20,0,7,0,1,0,0,107,0.1,Low,"None",Normal
+U682,2026-09-25T00:35:00.000Z,"Human Resources","HR Generalist",3,11,0,5,2,0,0,1,166,0.088,Low,"None",Normal
+U683,2026-09-23T15:57:00.000Z,"Engineering","Tech Lead",6,17,1,8,3,0,0,1,223,0.222,Medium,"None",Normal
+U684,2026-09-22T10:54:00.000Z,"Finance","Accounts Auditor",4,13,1,9,0,0,0,0,221,0.21,Medium,"None",Normal
+U685,2026-09-21T14:47:00.000Z,"Engineering","Cloud Architect",3,15,0,14,2,0,0,0,254,0.046,Low,"None",Normal
+U686,2026-09-27T19:05:00.000Z,"Human Resources","HR Director",3,11,0,16,1,0,0,0,276,0.059,Low,"None",Normal
+U687,2026-09-27T02:58:00.000Z,"Human Resources","HR Director",6,10,0,10,2,0,0,0,206,0.081,Low,"None",Normal
+U688,2026-09-25T11:40:00.000Z,"IT","Network Engineer",5,12,0,16,0,1,0,0,259,0.153,Low,"None",Normal
+U689,2026-09-24T18:55:00.000Z,"Human Resources","HR Generalist",6,6,1,15,1,0,0,1,89,0.061,Low,"None",Normal
+U690,2026-09-23T21:50:00.000Z,"Human Resources","HR Generalist",5,9,0,12,1,1,0,1,145,0.19,Medium,"None",Normal
+U691,2026-09-22T19:43:00.000Z,"Finance","Senior Controller",7,17,0,9,2,0,0,0,78,0.201,Medium,"None",Normal
+U692,2026-09-21T15:16:00.000Z,"Engineering","QA Engineer",4,11,0,13,1,0,0,0,188,0.109,Low,"None",Normal
+U693,2026-09-28T02:06:00.000Z,"Finance","Financial Analyst",4,16,0,11,1,0,0,0,197,0.192,Medium,"None",Normal
+U694,2026-09-26T14:27:00.000Z,"Sales","Account Executive",7,18,0,11,2,0,0,1,161,0.16,Low,"None",Normal
+U695,2026-09-25T20:35:00.000Z,"Engineering","QA Engineer",3,21,0,11,2,0,0,1,267,0.192,Medium,"None",Normal
+U696,2026-09-24T09:04:00.000Z,"Engineering","QA Engineer",5,8,0,8,2,0,0,0,294,0.074,Low,"None",Normal
+U697,2026-09-23T22:18:00.000Z,"Finance","Accounts Auditor",5,9,0,11,0,0,0,0,232,0.109,Low,"None",Normal
+U698,2026-09-23T03:38:00.000Z,"Human Resources","Recruitment Specialist",7,20,0,4,1,0,0,0,49,0.074,Low,"None",Normal
+U699,2026-09-22T08:24:00.000Z,"Finance","Accounts Auditor",5,12,0,14,1,0,0,0,272,0.082,Low,"None",Normal
+U700,2026-09-28T01:58:00.000Z,"Human Resources","Recruitment Specialist",3,9,0,6,2,0,1,0,171,0.025,Low,"None",Normal
+U701,2026-09-26T08:47:00.000Z,"Human Resources","HR Director",3,6,0,17,1,0,0,0,207,0.165,Low,"None",Normal
+U702,2026-09-25T21:35:00.000Z,"Engineering","DevOps Specialist",3,14,1,8,0,0,0,0,154,0.032,Low,"None",Normal
+U703,2026-09-25T03:55:00.000Z,"Human Resources","HR Generalist",4,6,0,10,3,0,0,0,103,0.195,Medium,"None",Normal
+U704,2026-09-24T01:58:00.000Z,"Sales","Enterprise Sales Director",4,18,1,7,3,0,0,0,96,0.08,Low,"None",Normal
+U705,2026-09-22T18:08:00.000Z,"Human Resources","HR Generalist",6,11,0,5,0,0,0,0,272,0.111,Low,"None",Normal
+U706,2026-09-21T13:33:00.000Z,"Sales","Enterprise Sales Director",5,10,0,15,0,1,0,0,87,0.055,Low,"None",Normal
+U707,2026-09-27T11:28:00.000Z,"Sales","Customer Success Lead",6,9,1,12,1,0,0,0,276,0.071,Low,"None",Normal
+U708,2026-09-26T16:20:00.000Z,"IT","Helpdesk Specialist",3,16,0,11,1,0,0,0,145,0.112,Low,"None",Normal
+U709,2026-09-25T16:17:00.000Z,"Sales","Enterprise Sales Director",7,18,0,10,3,0,0,0,221,0.125,Low,"None",Normal
+U710,2026-09-24T14:35:00.000Z,"Human Resources","HR Generalist",7,10,0,7,1,0,0,0,106,0.084,Low,"None",Normal
+U711,2026-09-23T22:28:00.000Z,"IT","Systems Administrator",5,7,0,5,0,0,0,0,213,0.235,Medium,"None",Normal
+U712,2026-09-22T23:29:00.000Z,"Human Resources","HR Director",3,7,0,6,3,0,1,0,190,0.087,Low,"None",Normal
+U713,2026-09-21T14:26:00.000Z,"Finance","Senior Controller",10,43,8,36,8,0,0,3,1080,0.678,Medium,"Privilege Escalation",Threat
+U714,2026-09-27T19:51:00.000Z,"Human Resources","HR Generalist",3,15,0,8,1,0,0,0,224,0.075,Low,"None",Normal
+U715,2026-09-26T12:53:00.000Z,"Human Resources","Recruitment Specialist",6,6,0,5,3,0,1,0,201,0.075,Low,"None",Normal
+U716,2026-09-25T20:16:00.000Z,"Sales","Account Executive",6,18,1,4,0,0,0,0,240,0.184,Medium,"None",Normal
+U717,2026-09-25T05:06:00.000Z,"IT","Security Operator",7,17,0,8,1,0,0,0,74,0.094,Low,"None",Normal
+U718,2026-09-23T15:06:00.000Z,"IT","Helpdesk Specialist",7,8,0,6,1,0,0,0,73,0.038,Low,"None",Normal
+U719,2026-09-22T22:45:00.000Z,"Engineering","QA Engineer",6,10,0,15,2,0,0,0,246,0.207,Medium,"None",Normal
+U720,2026-09-21T14:27:00.000Z,"Finance","Senior Controller",7,10,0,10,0,0,1,0,279,0.036,Low,"None",Normal
+U721,2026-09-27T20:51:00.000Z,"Human Resources","HR Director",4,16,0,13,2,0,0,0,54,0.106,Low,"None",Normal
+U722,2026-09-26T13:45:00.000Z,"Finance","Financial Analyst",3,14,0,7,1,0,0,0,276,0.156,Low,"None",Normal
+U723,2026-09-25T13:44:00.000Z,"IT","Helpdesk Specialist",3,11,0,4,2,0,0,0,260,0.222,Medium,"None",Normal
+U724,2026-09-24T16:35:00.000Z,"IT","Helpdesk Specialist",6,8,1,5,0,0,0,0,223,0.219,Medium,"None",Normal
+U725,2026-09-23T22:40:00.000Z,"IT","Network Engineer",3,18,1,16,3,0,0,1,172,0.068,Low,"None",Normal
+U726,2026-09-22T22:39:00.000Z,"Human Resources","HR Generalist",7,18,1,16,1,0,0,0,225,0.17,Low,"None",Normal
+U727,2026-09-22T06:46:00.000Z,"Sales","Account Executive",5,9,0,12,2,0,0,0,149,0.165,Low,"None",Normal
+U728,2026-09-27T11:47:00.000Z,"Sales","Customer Success Lead",6,16,0,5,1,0,0,1,163,0.042,Low,"None",Normal
+U729,2026-09-26T23:06:00.000Z,"IT","Helpdesk Specialist",6,9,0,11,0,0,0,0,247,0.218,Medium,"None",Normal
+U730,2026-09-25T21:15:00.000Z,"IT","Systems Administrator",3,16,0,13,3,0,0,0,218,0.053,Low,"None",Normal
+U731,2026-09-24T23:48:00.000Z,"IT","Security Operator",7,9,0,17,1,0,0,1,222,0.228,Medium,"None",Normal
+U732,2026-09-23T14:49:00.000Z,"Engineering","Cloud Architect",6,6,0,4,2,0,0,0,214,0.165,Low,"None",Normal
+U733,2026-09-23T06:58:00.000Z,"Engineering","DevOps Specialist",5,15,0,4,3,1,0,0,267,0.091,Low,"None",Normal
+U734,2026-09-21T18:08:00.000Z,"Human Resources","HR Director",3,20,0,17,1,1,1,0,71,0.192,Medium,"None",Normal
+U735,2026-09-27T15:40:00.000Z,"Engineering","Cloud Architect",4,21,0,13,0,0,0,0,229,0.23,Medium,"None",Normal
+U736,2026-09-26T14:55:00.000Z,"Finance","Financial Analyst",7,21,0,5,0,0,0,0,199,0.14,Low,"None",Normal
+U737,2026-09-25T22:14:00.000Z,"IT","Helpdesk Specialist",5,18,0,13,1,0,0,0,238,0.051,Low,"None",Normal
+U738,2026-09-25T00:28:00.000Z,"Engineering","DevOps Specialist",7,7,0,4,1,0,0,1,158,0.216,Medium,"None",Normal
+U739,2026-09-24T03:47:00.000Z,"Sales","Account Executive",6,21,0,9,0,0,0,0,247,0.218,Medium,"None",Normal
+U740,2026-09-22T14:30:00.000Z,"Human Resources","HR Director",5,6,0,6,0,0,0,0,275,0.146,Low,"None",Normal
+U741,2026-09-21T13:33:00.000Z,"Engineering","Senior Software Engineer",5,18,0,16,3,1,0,0,164,0.172,Low,"None",Normal
+U742,2026-09-27T12:48:00.000Z,"Engineering","Cloud Architect",3,17,0,4,1,0,0,0,252,0.036,Low,"None",Normal
+U743,2026-09-26T17:44:00.000Z,"Sales","Account Executive",7,17,0,12,0,0,0,0,121,0.049,Low,"None",Normal
+U744,2026-09-25T09:25:00.000Z,"Human Resources","HR Director",3,11,0,8,0,0,1,0,123,0.135,Low,"None",Normal
+U745,2026-09-24T16:46:00.000Z,"Sales","Account Executive",7,20,0,11,1,0,0,0,186,0.078,Low,"None",Normal
+U746,2026-09-24T03:46:00.000Z,"Sales","Account Executive",7,14,1,15,1,0,0,0,186,0.154,Low,"None",Normal
+U747,2026-09-23T04:04:00.000Z,"IT","Helpdesk Specialist",4,17,0,8,0,0,0,0,103,0.044,Low,"None",Normal
+U748,2026-09-21T12:00:00.000Z,"Engineering","QA Engineer",6,7,1,13,1,0,0,1,121,0.162,Low,"None",Normal
+U749,2026-09-28T08:13:00.000Z,"Finance","Accounts Auditor",3,21,0,17,3,1,0,0,46,0.234,Medium,"None",Normal
+U750,2026-09-27T03:10:00.000Z,"Engineering","DevOps Specialist",3,11,0,8,1,0,0,0,74,0.157,Low,"None",Normal
+U751,2026-09-25T18:54:00.000Z,"Sales","Account Executive",3,11,1,15,2,1,0,0,57,0.074,Low,"None",Normal
+U752,2026-09-25T07:34:00.000Z,"Engineering","Tech Lead",6,10,0,7,1,0,0,0,110,0.211,Medium,"None",Normal
+U753,2026-09-23T12:34:00.000Z,"IT","Helpdesk Specialist",3,13,0,17,1,1,0,1,47,0.129,Low,"None",Normal
+U754,2026-09-22T20:53:00.000Z,"Finance","Accounts Auditor",4,10,0,14,2,0,0,0,67,0.072,Low,"None",Normal
+U755,2026-09-22T04:03:00.000Z,"Finance","Senior Controller",3,7,0,14,2,0,0,0,213,0.105,Low,"None",Normal
+U756,2026-09-28T07:52:00.000Z,"Engineering","Senior Software Engineer",5,14,0,10,0,0,0,0,302,0.119,Low,"None",Normal
+U757,2026-09-26T16:16:00.000Z,"Sales","Enterprise Sales Director",7,9,0,5,3,0,0,0,271,0.04,Low,"None",Normal
+U758,2026-09-25T19:02:00.000Z,"Sales","Account Executive",4,15,0,8,0,0,0,1,114,0.153,Low,"None",Normal
+U759,2026-09-25T07:55:00.000Z,"Sales","Account Executive",3,17,0,10,1,0,0,0,298,0.044,Low,"None",Normal
+U760,2026-09-23T12:55:00.000Z,"Human Resources","Recruitment Specialist",4,18,0,6,3,0,0,0,290,0.21,Medium,"None",Normal
+U761,2026-09-22T15:55:00.000Z,"IT","Helpdesk Specialist",4,20,0,10,1,0,0,0,210,0.218,Medium,"None",Normal
+U762,2026-09-21T15:17:00.000Z,"Engineering","QA Engineer",4,17,1,17,1,0,0,0,141,0.166,Low,"None",Normal
+U763,2026-09-27T16:07:00.000Z,"Human Resources","HR Generalist",7,11,0,13,0,0,0,0,300,0.223,Medium,"None",Normal
+U764,2026-09-27T07:36:00.000Z,"Sales","Enterprise Sales Director",6,20,1,5,1,0,0,0,61,0.114,Low,"None",Normal
+U765,2026-09-25T19:21:00.000Z,"Sales","Customer Success Lead",6,7,1,9,3,0,0,0,278,0.15,Low,"None",Normal
+U766,2026-09-24T23:01:00.000Z,"Human Resources","HR Director",5,21,0,6,0,0,0,0,71,0.14,Low,"None",Normal
+U767,2026-09-23T10:26:00.000Z,"Engineering","DevOps Specialist",4,10,0,6,3,0,1,0,58,0.061,Low,"None",Normal
+U768,2026-09-22T18:29:00.000Z,"Human Resources","HR Generalist",6,10,1,8,1,0,0,0,315,0.193,Medium,"None",Normal
+U769,2026-09-22T08:14:00.000Z,"IT","Security Operator",6,17,0,10,2,0,0,0,68,0.118,Low,"None",Normal
+U770,2026-09-27T13:15:00.000Z,"Engineering","DevOps Specialist",5,12,0,5,0,0,1,1,43,0.098,Low,"None",Normal
+U771,2026-09-26T15:55:00.000Z,"Human Resources","HR Director",6,21,0,17,1,0,0,1,275,0.084,Low,"None",Normal
+U772,2026-09-26T08:06:00.000Z,"Engineering","Cloud Architect",5,20,1,8,1,0,0,0,131,0.123,Low,"None",Normal
+U773,2026-09-24T14:11:00.000Z,"Human Resources","HR Director",4,10,1,7,1,0,0,0,227,0.065,Low,"None",Normal
+U774,2026-09-24T00:54:00.000Z,"IT","Helpdesk Specialist",5,9,0,15,1,0,1,0,125,0.204,Medium,"None",Normal
+U775,2026-09-22T08:40:00.000Z,"Finance","Accounts Auditor",5,11,1,12,0,0,0,0,155,0.025,Low,"None",Normal
+U776,2026-09-21T20:05:00.000Z,"Finance","Payroll Specialist",4,14,0,6,2,0,0,0,76,0.14,Low,"None",Normal
+U777,2026-09-28T05:57:00.000Z,"Engineering","Cloud Architect",7,11,1,13,0,0,0,0,124,0.029,Low,"None",Normal
+U778,2026-09-26T12:02:00.000Z,"Human Resources","HR Director",3,7,0,12,0,0,0,0,102,0.061,Low,"None",Normal
+U779,2026-09-26T03:55:00.000Z,"IT","Network Engineer",7,33,5,23,11,1,1,2,2608,0.654,Medium,"Unauthorized Access",Threat
+U780,2026-09-24T20:01:00.000Z,"IT","Network Engineer",3,8,0,4,0,0,0,0,220,0.136,Low,"None",Normal
+U781,2026-09-23T22:10:00.000Z,"Human Resources","Recruitment Specialist",5,7,1,11,3,1,0,1,65,0.065,Low,"None",Normal
+U782,2026-09-23T02:37:00.000Z,"Human Resources","Recruitment Specialist",6,19,1,17,1,0,0,0,181,0.2,Medium,"None",Normal
+U783,2026-09-21T10:38:00.000Z,"Human Resources","Recruitment Specialist",7,15,0,17,2,0,0,0,155,0.055,Low,"None",Normal
+U784,2026-09-28T05:16:00.000Z,"Finance","Payroll Specialist",4,7,0,9,2,0,0,0,261,0.08,Low,"None",Normal
+U785,2026-09-27T02:15:00.000Z,"Human Resources","Recruitment Specialist",4,8,0,17,0,0,0,0,259,0.234,Medium,"None",Normal
+U786,2026-09-25T11:01:00.000Z,"Sales","Account Executive",5,13,1,9,0,0,0,0,123,0.163,Low,"None",Normal
+U787,2026-09-24T11:38:00.000Z,"Finance","Financial Analyst",7,18,0,12,0,0,0,0,249,0.037,Low,"None",Normal
+U788,2026-09-23T16:51:00.000Z,"IT","Helpdesk Specialist",3,13,0,13,0,0,1,0,50,0.112,Low,"None",Normal
+U789,2026-09-23T01:57:00.000Z,"Finance","Payroll Specialist",4,16,0,5,2,0,0,0,130,0.181,Medium,"None",Normal
+U790,2026-09-21T13:20:00.000Z,"Engineering","DevOps Specialist",4,15,0,16,0,0,0,0,269,0.171,Low,"None",Normal
+U791,2026-09-27T18:14:00.000Z,"Sales","Customer Success Lead",6,12,0,7,3,1,0,0,257,0.106,Low,"None",Normal
+U792,2026-09-26T09:37:00.000Z,"Human Resources","Recruitment Specialist",6,21,0,6,0,0,0,0,109,0.108,Low,"None",Normal
+U793,2026-09-25T09:24:00.000Z,"IT","Helpdesk Specialist",3,20,0,6,1,0,0,0,240,0.115,Low,"None",Normal
+U794,2026-09-24T19:58:00.000Z,"IT","Helpdesk Specialist",7,12,0,8,3,0,0,1,75,0.124,Low,"None",Normal
+U795,2026-09-23T20:18:00.000Z,"Sales","Customer Success Lead",4,14,0,9,1,0,1,0,319,0.105,Low,"None",Normal
+U796,2026-09-23T00:01:00.000Z,"Human Resources","HR Director",6,13,1,8,3,0,0,1,146,0.101,Low,"None",Normal
+U797,2026-09-22T01:08:00.000Z,"Sales","Customer Success Lead",4,14,0,13,3,0,0,0,111,0.123,Low,"None",Normal
+U798,2026-09-27T12:27:00.000Z,"Human Resources","HR Generalist",4,13,0,11,2,0,0,0,223,0.201,Medium,"None",Normal
+U799,2026-09-27T00:11:00.000Z,"Human Resources","Recruitment Specialist",4,16,0,4,2,0,0,0,134,0.064,Low,"None",Normal
+U800,2026-09-25T16:38:00.000Z,"Sales","Customer Success Lead",3,13,0,14,3,0,0,0,47,0.021,Low,"None",Normal
+U801,2026-09-24T09:45:00.000Z,"IT","Systems Administrator",11,26,5,19,6,0,1,3,1532,0.635,Medium,"Privilege Escalation",Threat
+U802,2026-09-23T16:27:00.000Z,"Engineering","Cloud Architect",5,15,1,12,1,0,0,0,119,0.037,Low,"None",Normal
+U803,2026-09-23T01:37:00.000Z,"Sales","Enterprise Sales Director",7,16,0,4,0,0,0,0,243,0.138,Low,"None",Normal
+U804,2026-09-21T13:54:00.000Z,"IT","Network Engineer",4,7,1,4,1,0,0,0,146,0.036,Low,"None",Normal
+U805,2026-09-28T07:25:00.000Z,"IT","Network Engineer",7,15,0,7,2,0,0,0,52,0.109,Low,"None",Normal
+U806,2026-09-26T22:08:00.000Z,"IT","Helpdesk Specialist",5,19,0,6,2,0,0,0,82,0.122,Low,"None",Normal
+U807,2026-09-25T10:29:00.000Z,"Human Resources","HR Generalist",5,16,0,4,2,0,0,0,210,0.159,Low,"None",Normal
+U808,2026-09-24T22:49:00.000Z,"Finance","Senior Controller",5,14,1,17,3,0,1,0,46,0.08,Low,"None",Normal
+U809,2026-09-24T06:24:00.000Z,"Human Resources","HR Generalist",7,8,0,11,1,0,0,0,74,0.187,Medium,"None",Normal
+U810,2026-09-22T22:06:00.000Z,"Human Resources","HR Generalist",7,6,0,15,1,0,0,0,109,0.209,Medium,"None",Normal
+U811,2026-09-21T20:39:00.000Z,"Engineering","Senior Software Engineer",7,15,1,11,0,0,0,0,217,0.215,Medium,"None",Normal
+U812,2026-09-27T12:01:00.000Z,"Engineering","QA Engineer",6,20,0,11,1,0,1,1,59,0.238,Medium,"None",Normal
+U813,2026-09-27T06:11:00.000Z,"Human Resources","Recruitment Specialist",4,11,0,14,1,0,0,0,130,0.039,Low,"None",Normal
+U814,2026-09-25T21:37:00.000Z,"Human Resources","HR Generalist",6,20,0,10,1,0,0,0,158,0.104,Low,"None",Normal
+U815,2026-09-25T05:41:00.000Z,"IT","Systems Administrator",4,18,0,10,3,0,0,0,318,0.049,Low,"None",Normal
+U816,2026-09-24T03:57:00.000Z,"Engineering","Senior Software Engineer",3,9,0,13,2,0,0,1,201,0.192,Medium,"None",Normal
+U817,2026-09-22T23:00:00.000Z,"Human Resources","HR Director",5,17,0,6,1,0,0,0,126,0.088,Low,"None",Normal
+U818,2026-09-21T09:37:00.000Z,"Sales","Account Executive",4,8,1,17,0,0,0,0,197,0.228,Medium,"None",Normal
+U819,2026-09-27T19:59:00.000Z,"Engineering","QA Engineer",7,21,0,8,2,0,0,0,189,0.095,Low,"None",Normal
+U820,2026-09-26T16:30:00.000Z,"IT","Helpdesk Specialist",5,6,1,16,1,0,0,0,208,0.058,Low,"None",Normal
+U821,2026-09-25T14:44:00.000Z,"Human Resources","HR Generalist",5,16,0,12,3,0,0,0,181,0.058,Low,"None",Normal
+U822,2026-09-24T23:59:00.000Z,"Engineering","DevOps Specialist",6,16,0,14,0,0,0,1,59,0.205,Medium,"None",Normal
+U823,2026-09-23T15:09:00.000Z,"Human Resources","HR Director",6,20,0,12,3,0,0,0,194,0.225,Medium,"None",Normal
+U824,2026-09-22T11:19:00.000Z,"IT","Helpdesk Specialist",7,9,0,16,3,0,0,0,276,0.084,Low,"None",Normal
+U825,2026-09-21T15:24:00.000Z,"Human Resources","HR Generalist",4,13,0,10,3,0,0,0,133,0.146,Low,"None",Normal
+U826,2026-09-27T17:41:00.000Z,"IT","Systems Administrator",7,20,0,13,3,0,0,0,208,0.155,Low,"None",Normal
+U827,2026-09-26T12:39:00.000Z,"Sales","Customer Success Lead",3,17,0,8,0,0,0,1,108,0.159,Low,"None",Normal
+U828,2026-09-26T03:23:00.000Z,"Finance","Accounts Auditor",5,7,0,14,2,0,0,0,248,0.08,Low,"None",Normal
+U829,2026-09-25T06:28:00.000Z,"Sales","Account Executive",3,10,0,10,0,0,0,0,269,0.144,Low,"None",Normal
+U830,2026-09-23T20:25:00.000Z,"Engineering","Cloud Architect",3,20,0,6,3,0,0,1,47,0.152,Low,"None",Normal
+User_0831,2026-09-22T15:32:00.000Z,"Engineering","QA Engineer",3,19,0,7,3,0,0,0,277,0.232,Medium,"None",Normal
+U832,2026-09-21T18:48:00.000Z,"Finance","Payroll Specialist",7,20,0,15,0,0,0,0,248,0.125,Low,"None",Normal
+U833,2026-09-27T13:44:00.000Z,"Engineering","DevOps Specialist",3,7,1,15,3,0,0,1,279,0.154,Low,"None",Normal
+U834,2026-09-26T12:34:00.000Z,"Engineering","QA Engineer",5,13,0,6,3,0,0,1,198,0.193,Medium,"None",Normal
+U835,2026-09-26T01:08:00.000Z,"IT","Helpdesk Specialist",3,14,0,13,2,0,1,0,193,0.031,Low,"None",Normal
+U836,2026-09-24T11:58:00.000Z,"Human Resources","HR Director",3,19,0,14,0,0,0,0,59,0.147,Low,"None",Normal
+U837,2026-09-24T05:35:00.000Z,"IT","Helpdesk Specialist",4,8,1,9,1,0,1,0,220,0.196,Medium,"None",Normal
+U838,2026-09-22T09:34:00.000Z,"Engineering","DevOps Specialist",4,11,0,13,3,0,0,0,103,0.059,Low,"None",Normal
+U839,2026-09-21T21:48:00.000Z,"Human Resources","Recruitment Specialist",7,9,0,15,2,0,0,1,170,0.142,Low,"None",Normal
+U840,2026-09-28T02:07:00.000Z,"Sales","Customer Success Lead",4,10,0,12,1,0,0,1,102,0.194,Medium,"None",Normal
+U841,2026-09-27T01:20:00.000Z,"IT","Helpdesk Specialist",4,20,0,8,3,0,0,1,248,0.144,Low,"None",Normal
+U842,2026-09-26T05:18:00.000Z,"Engineering","Cloud Architect",7,12,1,5,2,0,0,0,161,0.139,Low,"None",Normal
+U843,2026-09-24T13:57:00.000Z,"Sales","Customer Success Lead",5,11,0,15,0,0,0,0,116,0.163,Low,"None",Normal
+U844,2026-09-24T08:13:00.000Z,"Sales","Account Executive",7,14,0,6,2,0,0,0,225,0.15,Low,"None",Normal
+U845,2026-09-23T01:10:00.000Z,"IT","Network Engineer",5,18,0,7,1,0,0,0,253,0.188,Medium,"None",Normal
+U846,2026-09-22T04:23:00.000Z,"Engineering","QA Engineer",6,21,0,16,0,0,0,1,41,0.082,Low,"None",Normal
+U847,2026-09-28T08:07:00.000Z,"Human Resources","HR Director",5,6,0,14,2,0,0,0,301,0.192,Medium,"None",Normal
+U848,2026-09-26T12:15:00.000Z,"Engineering","Cloud Architect",6,15,0,9,2,0,1,0,233,0.24,Medium,"None",Normal
+U849,2026-09-25T14:57:00.000Z,"IT","Security Operator",4,10,0,13,2,0,0,0,43,0.142,Low,"None",Normal
+U850,2026-09-24T18:32:00.000Z,"Engineering","QA Engineer",5,8,0,11,1,0,0,0,235,0.233,Medium,"None",Normal
+U851,2026-09-23T23:37:00.000Z,"Engineering","Cloud Architect",6,10,0,6,3,0,1,1,225,0.082,Low,"None",Normal
+U852,2026-09-23T01:33:00.000Z,"Engineering","Senior Software Engineer",5,8,0,7,0,0,0,0,116,0.045,Low,"None",Normal
+U853,2026-09-21T11:55:00.000Z,"Finance","Payroll Specialist",4,20,0,7,0,0,0,0,43,0.073,Low,"None",Normal
+U854,2026-09-27T15:23:00.000Z,"Finance","Senior Controller",5,6,0,11,2,0,0,0,199,0.05,Low,"None",Normal
+U855,2026-09-26T09:56:00.000Z,"Sales","Enterprise Sales Director",3,14,0,13,0,0,0,0,116,0.213,Medium,"None",Normal
+U856,2026-09-25T10:14:00.000Z,"Sales","Customer Success Lead",4,17,0,7,3,0,1,0,235,0.188,Medium,"None",Normal
+U857,2026-09-24T14:49:00.000Z,"Human Resources","Recruitment Specialist",3,6,0,17,1,0,0,1,292,0.147,Low,"None",Normal
+U858,2026-09-24T04:18:00.000Z,"Engineering","DevOps Specialist",5,7,0,8,3,0,0,0,284,0.159,Low,"None",Normal
+U859,2026-09-22T08:50:00.000Z,"Human Resources","HR Director",4,8,0,13,0,1,0,0,170,0.126,Low,"None",Normal
+U860,2026-09-21T21:28:00.000Z,"IT","Systems Administrator",5,18,1,4,3,0,0,1,94,0.059,Low,"None",Normal
+U861,2026-09-28T03:22:00.000Z,"Sales","Customer Success Lead",6,10,0,7,1,0,0,0,159,0.07,Low,"None",Normal
+U862,2026-09-26T17:13:00.000Z,"IT","Security Operator",4,19,0,4,1,0,0,1,185,0.114,Low,"None",Normal
+U863,2026-09-25T23:42:00.000Z,"Finance","Senior Controller",5,11,0,15,3,0,0,0,72,0.139,Low,"None",Normal
+U864,2026-09-25T05:27:00.000Z,"Finance","Financial Analyst",7,16,1,8,0,0,0,0,311,0.238,Medium,"None",Normal
+U865,2026-09-23T10:44:00.000Z,"Human Resources","HR Director",3,14,0,7,0,0,0,0,171,0.098,Low,"None",Normal
+U866,2026-09-22T14:20:00.000Z,"IT","Helpdesk Specialist",5,6,0,5,2,0,0,0,152,0.213,Medium,"None",Normal
+U867,2026-09-21T15:16:00.000Z,"Finance","Accounts Auditor",3,11,0,16,0,0,0,0,119,0.144,Low,"None",Normal
+U868,2026-09-28T06:28:00.000Z,"Finance","Financial Analyst",5,16,0,5,1,0,0,0,125,0.156,Low,"None",Normal
+U869,2026-09-26T15:25:00.000Z,"Finance","Financial Analyst",4,6,0,13,2,0,0,0,53,0.187,Medium,"None",Normal
+U870,2026-09-26T06:14:00.000Z,"Finance","Senior Controller",6,6,0,6,2,0,0,1,224,0.186,Medium,"None",Normal
+U871,2026-09-25T03:11:00.000Z,"Engineering","QA Engineer",5,8,0,6,1,0,0,0,215,0.161,Low,"None",Normal
+U872,2026-09-23T15:03:00.000Z,"Human Resources","HR Director",5,8,0,13,0,1,0,0,103,0.077,Low,"None",Normal
+U873,2026-09-22T11:29:00.000Z,"Sales","Enterprise Sales Director",5,20,1,4,0,0,0,0,247,0.221,Medium,"None",Normal
+U874,2026-09-22T00:32:00.000Z,"IT","Network Engineer",4,11,0,5,0,0,0,1,72,0.107,Low,"None",Normal
+U875,2026-09-28T03:23:00.000Z,"IT","Network Engineer",3,15,0,6,0,0,0,0,119,0.032,Low,"None",Normal
+U876,2026-09-26T19:04:00.000Z,"Human Resources","HR Director",3,14,0,16,2,0,0,1,77,0.191,Medium,"None",Normal
+U877,2026-09-26T02:26:00.000Z,"Engineering","Tech Lead",4,10,0,8,0,1,0,0,213,0.23,Medium,"None",Normal
+U878,2026-09-25T02:56:00.000Z,"Engineering","Cloud Architect",4,19,0,9,1,0,0,0,99,0.037,Low,"None",Normal
+U879,2026-09-24T01:16:00.000Z,"Sales","Customer Success Lead",3,21,0,5,3,0,0,0,126,0.161,Low,"None",Normal
+U880,2026-09-23T08:28:00.000Z,"Engineering","DevOps Specialist",4,10,0,13,3,0,0,0,115,0.124,Low,"None",Normal
+U881,2026-09-21T13:37:00.000Z,"Human Resources","HR Generalist",5,14,0,6,0,0,0,0,142,0.161,Low,"None",Normal
+U882,2026-09-27T21:05:00.000Z,"Engineering","DevOps Specialist",5,13,0,10,0,0,0,0,126,0.082,Low,"None",Normal
+U883,2026-09-26T15:31:00.000Z,"Finance","Accounts Auditor",3,20,0,5,3,0,0,1,263,0.207,Medium,"None",Normal
+U884,2026-09-26T08:02:00.000Z,"Engineering","Tech Lead",4,10,0,10,0,0,0,0,119,0.033,Low,"None",Normal
+U885,2026-09-24T18:03:00.000Z,"Engineering","DevOps Specialist",6,6,1,10,1,0,0,1,125,0.055,Low,"None",Normal
+U886,2026-09-23T15:12:00.000Z,"Engineering","Tech Lead",4,12,0,13,2,0,0,0,206,0.162,Low,"None",Normal
+U887,2026-09-22T14:56:00.000Z,"Sales","Enterprise Sales Director",3,17,0,17,1,0,0,1,102,0.088,Low,"None",Normal
+U888,2026-09-22T03:56:00.000Z,"Sales","Enterprise Sales Director",6,14,0,9,1,0,0,1,63,0.185,Medium,"None",Normal
+U889,2026-09-28T01:59:00.000Z,"Human Resources","HR Director",6,11,0,17,0,0,0,0,106,0.087,Low,"None",Normal
+U890,2026-09-26T16:53:00.000Z,"Finance","Financial Analyst",5,13,0,11,3,0,0,0,214,0.154,Low,"None",Normal
+U891,2026-09-26T01:02:00.000Z,"Engineering","Senior Software Engineer",6,20,0,12,0,0,0,0,209,0.049,Low,"None",Normal
+U892,2026-09-24T11:33:00.000Z,"Human Resources","Recruitment Specialist",5,7,0,15,0,0,0,0,266,0.233,Medium,"None",Normal
+U893,2026-09-24T00:20:00.000Z,"Human Resources","Recruitment Specialist",4,21,0,4,0,0,0,0,179,0.213,Medium,"None",Normal
+U894,2026-09-22T21:05:00.000Z,"Human Resources","HR Generalist",6,13,0,10,1,0,0,0,225,0.144,Low,"None",Normal
+U895,2026-09-21T15:41:00.000Z,"Human Resources","HR Generalist",5,14,0,4,1,0,0,1,53,0.028,Low,"None",Normal
+U896,2026-09-27T11:48:00.000Z,"Sales","Customer Success Lead",7,13,0,4,0,0,0,0,46,0.221,Medium,"None",Normal
+U897,2026-09-26T12:22:00.000Z,"Sales","Account Executive",4,21,1,15,2,0,0,0,79,0.088,Low,"None",Normal
+U898,2026-09-25T16:31:00.000Z,"Sales","Customer Success Lead",7,10,0,14,1,0,0,0,234,0.205,Medium,"None",Normal
+U899,2026-09-24T21:43:00.000Z,"Sales","Enterprise Sales Director",4,8,0,14,3,0,1,0,164,0.118,Low,"None",Normal
+U900,2026-09-24T06:27:00.000Z,"IT","Network Engineer",7,16,1,7,0,0,0,0,65,0.178,Low,"None",Normal
+U901,2026-09-22T14:25:00.000Z,"Engineering","Senior Software Engineer",4,14,1,9,3,0,0,0,249,0.187,Medium,"None",Normal
+U902,2026-09-21T22:00:00.000Z,"Finance","Senior Controller",4,17,0,7,0,0,0,0,112,0.039,Low,"None",Normal
+U903,2026-09-27T23:45:00.000Z,"IT","Network Engineer",6,12,1,16,3,1,0,0,281,0.155,Low,"None",Normal
+U904,2026-09-26T08:39:00.000Z,"Human Resources","HR Director",3,16,0,6,0,0,0,0,163,0.16,Low,"None",Normal
+U905,2026-09-25T09:04:00.000Z,"Human Resources","HR Generalist",4,12,0,8,0,0,0,0,128,0.165,Low,"None",Normal
+U906,2026-09-25T02:39:00.000Z,"IT","Security Operator",3,6,0,14,3,0,0,0,255,0.128,Low,"None",Normal
+U907,2026-09-23T18:30:00.000Z,"Engineering","Senior Software Engineer",5,17,0,9,0,0,0,0,224,0.201,Medium,"None",Normal
+U908,2026-09-22T23:50:00.000Z,"IT","Security Operator",4,8,0,17,2,0,0,0,281,0.043,Low,"None",Normal
+U909,2026-09-21T20:59:00.000Z,"Finance","Payroll Specialist",6,6,0,13,3,0,0,0,240,0.031,Low,"None",Normal
+U910,2026-09-28T02:54:00.000Z,"Finance","Senior Controller",4,12,0,7,1,0,0,0,91,0.092,Low,"None",Normal
+U911,2026-09-26T10:09:00.000Z,"Engineering","Cloud Architect",6,9,0,7,1,0,0,0,146,0.185,Medium,"None",Normal
+U912,2026-09-26T04:26:00.000Z,"Human Resources","Recruitment Specialist",7,20,1,13,0,0,0,0,117,0.081,Low,"None",Normal
+U913,2026-09-25T04:17:00.000Z,"Finance","Financial Analyst",4,8,1,6,2,0,0,0,191,0.097,Low,"None",Normal
+U914,2026-09-23T11:12:00.000Z,"Engineering","QA Engineer",6,12,1,7,3,0,0,0,295,0.228,Medium,"None",Normal
+U915,2026-09-22T11:28:00.000Z,"IT","Systems Administrator",5,15,1,12,0,0,0,0,92,0.111,Low,"None",Normal
+U916,2026-09-22T02:18:00.000Z,"Finance","Senior Controller",4,12,1,15,0,0,0,0,242,0.05,Low,"None",Normal
+U917,2026-09-27T22:57:00.000Z,"Finance","Financial Analyst",5,9,0,15,3,0,0,0,133,0.114,Low,"None",Normal
+U918,2026-09-26T20:32:00.000Z,"IT","Network Engineer",6,15,0,16,0,0,0,0,104,0.028,Low,"None",Normal
+U919,2026-09-25T19:43:00.000Z,"Sales","Account Executive",9,36,7,26,14,1,0,3,1102,0.586,Medium,"Privilege Escalation",Threat
+U920,2026-09-25T06:07:00.000Z,"Engineering","QA Engineer",4,17,0,16,1,0,0,0,197,0.22,Medium,"None",Normal
+U921,2026-09-23T10:39:00.000Z,"Finance","Financial Analyst",7,40,9,30,14,1,1,1,1102,0.591,Medium,"Data Exfiltration",Threat
+U922,2026-09-23T06:36:00.000Z,"Human Resources","Recruitment Specialist",7,16,0,9,1,0,0,0,269,0.022,Low,"None",Normal
+U923,2026-09-21T08:45:00.000Z,"IT","Security Operator",7,18,0,16,3,0,0,0,142,0.034,Low,"None",Normal
+U924,2026-09-27T20:00:00.000Z,"Sales","Enterprise Sales Director",7,17,0,16,0,0,0,0,229,0.171,Low,"None",Normal
+U925,2026-09-27T04:34:00.000Z,"Sales","Customer Success Lead",5,15,0,12,2,0,0,0,182,0.123,Low,"None",Normal
+U926,2026-09-25T17:50:00.000Z,"Finance","Senior Controller",5,13,0,13,2,0,0,0,158,0.148,Low,"None",Normal
+U927,2026-09-24T10:20:00.000Z,"Finance","Accounts Auditor",6,15,0,7,1,0,0,0,208,0.074,Low,"None",Normal
+U928,2026-09-23T23:48:00.000Z,"Sales","Account Executive",7,13,0,15,1,0,0,0,142,0.111,Low,"None",Normal
+U929,2026-09-22T22:30:00.000Z,"Finance","Payroll Specialist",7,15,0,10,2,0,0,0,140,0.075,Low,"None",Normal
+U930,2026-09-21T16:29:00.000Z,"Finance","Accounts Auditor",7,18,0,13,2,0,0,0,247,0.035,Low,"None",Normal
+U931,2026-09-28T06:53:00.000Z,"Sales","Customer Success Lead",4,10,0,14,2,0,0,0,187,0.234,Medium,"None",Normal
+U932,2026-09-26T23:20:00.000Z,"Finance","Accounts Auditor",4,18,0,7,3,0,0,1,226,0.229,Medium,"None",Normal
+U933,2026-09-25T23:11:00.000Z,"IT","Security Operator",7,7,1,10,1,0,0,1,244,0.08,Low,"None",Normal
+U934,2026-09-25T01:07:00.000Z,"Sales","Enterprise Sales Director",5,10,0,12,3,0,0,0,271,0.114,Low,"None",Normal
+U935,2026-09-23T08:52:00.000Z,"Sales","Customer Success Lead",6,19,0,10,1,0,0,0,188,0.178,Low,"None",Normal
+U936,2026-09-22T14:41:00.000Z,"Engineering","Senior Software Engineer",3,14,0,10,3,0,1,0,100,0.05,Low,"None",Normal
+U937,2026-09-22T01:25:00.000Z,"IT","Network Engineer",5,10,0,13,0,0,1,0,262,0.036,Low,"None",Normal
+U938,2026-09-28T04:42:00.000Z,"Sales","Account Executive",4,21,0,9,1,0,0,0,275,0.194,Medium,"None",Normal
+U939,2026-09-27T05:29:00.000Z,"Sales","Customer Success Lead",3,11,0,17,1,0,0,0,290,0.101,Low,"None",Normal
+U940,2026-09-26T05:11:00.000Z,"IT","Security Operator",3,10,0,9,0,0,0,1,114,0.143,Low,"None",Normal
+U941,2026-09-24T19:02:00.000Z,"Finance","Accounts Auditor",5,14,0,9,1,1,0,0,98,0.205,Medium,"None",Normal
+U942,2026-09-23T15:19:00.000Z,"Sales","Enterprise Sales Director",6,17,0,5,0,0,0,0,303,0.133,Low,"None",Normal
+U943,2026-09-23T07:26:00.000Z,"Human Resources","Recruitment Specialist",7,15,1,15,1,0,0,1,129,0.072,Low,"None",Normal
+U944,2026-09-22T06:17:00.000Z,"IT","Systems Administrator",7,8,0,5,1,0,0,0,55,0.072,Low,"None",Normal
+U945,2026-09-27T22:47:00.000Z,"Engineering","Tech Lead",4,7,0,13,1,0,0,0,278,0.138,Low,"None",Normal
+U946,2026-09-26T16:43:00.000Z,"Engineering","QA Engineer",7,13,0,5,3,0,0,0,288,0.211,Medium,"None",Normal
+U947,2026-09-25T23:21:00.000Z,"Sales","Enterprise Sales Director",5,14,1,7,0,0,0,0,43,0.185,Medium,"None",Normal
+U948,2026-09-24T08:31:00.000Z,"Human Resources","HR Generalist",3,19,0,12,1,0,0,0,274,0.18,Low,"None",Normal
+U949,2026-09-23T22:44:00.000Z,"Finance","Payroll Specialist",3,11,0,4,3,0,0,0,73,0.155,Low,"None",Normal
+U950,2026-09-23T03:59:00.000Z,"Engineering","Cloud Architect",3,20,0,7,3,0,0,0,100,0.17,Low,"None",Normal
+U951,2026-09-22T01:56:00.000Z,"Sales","Customer Success Lead",3,14,1,11,0,0,0,0,190,0.211,Medium,"None",Normal
+U952,2026-09-28T03:09:00.000Z,"IT","Network Engineer",4,18,0,6,0,0,0,0,245,0.2,Medium,"None",Normal
+U953,2026-09-27T04:27:00.000Z,"Sales","Enterprise Sales Director",3,21,0,10,2,0,0,1,269,0.172,Low,"None",Normal
+U954,2026-09-25T16:33:00.000Z,"Engineering","Tech Lead",3,10,0,7,2,0,0,0,51,0.035,Low,"None",Normal
+U955,2026-09-25T06:18:00.000Z,"Finance","Financial Analyst",7,15,1,11,3,0,0,0,226,0.165,Low,"None",Normal
+U956,2026-09-24T05:30:00.000Z,"Finance","Accounts Auditor",7,17,0,17,0,0,0,0,152,0.216,Medium,"None",Normal
+U957,2026-09-22T11:26:00.000Z,"IT","Network Engineer",3,15,0,13,3,0,1,0,41,0.104,Low,"None",Normal
+U958,2026-09-21T23:26:00.000Z,"Engineering","Senior Software Engineer",6,15,0,17,2,0,0,0,144,0.149,Low,"None",Normal
+U959,2026-09-27T13:24:00.000Z,"Engineering","QA Engineer",6,11,0,11,0,0,0,0,258,0.23,Medium,"None",Normal
+U960,2026-09-26T11:05:00.000Z,"Human Resources","Recruitment Specialist",4,12,0,12,2,0,0,1,243,0.085,Low,"None",Normal
+U961,2026-09-26T02:29:00.000Z,"Engineering","Senior Software Engineer",7,27,9,16,8,0,1,4,2295,0.697,Medium,"Data Exfiltration",Threat
+U962,2026-09-25T02:06:00.000Z,"Human Resources","HR Generalist",6,10,0,14,0,0,0,0,315,0.037,Low,"None",Normal
+U963,2026-09-24T02:47:00.000Z,"Human Resources","HR Director",5,19,0,15,1,0,0,0,91,0.164,Low,"None",Normal
+U964,2026-09-22T21:28:00.000Z,"IT","Network Engineer",5,17,0,17,1,0,0,1,40,0.08,Low,"None",Normal
+U965,2026-09-22T02:16:00.000Z,"IT","Helpdesk Specialist",3,12,0,7,3,0,0,0,196,0.108,Low,"None",Normal
+U966,2026-09-27T17:16:00.000Z,"Finance","Payroll Specialist",5,7,0,10,2,0,0,0,104,0.033,Low,"None",Normal
+U967,2026-09-26T13:08:00.000Z,"Sales","Account Executive",7,21,0,9,0,0,0,0,75,0.223,Medium,"None",Normal
+U968,2026-09-26T04:33:00.000Z,"IT","Helpdesk Specialist",5,6,0,16,2,0,0,0,297,0.083,Low,"None",Normal
+U969,2026-09-24T12:06:00.000Z,"Human Resources","Recruitment Specialist",7,19,0,14,1,0,1,0,186,0.146,Low,"None",Normal
+U970,2026-09-23T18:39:00.000Z,"Finance","Payroll Specialist",5,19,1,10,2,0,0,0,40,0.055,Low,"None",Normal
+U971,2026-09-23T07:04:00.000Z,"Finance","Senior Controller",3,13,0,17,1,0,0,0,105,0.051,Low,"None",Normal
+U972,2026-09-22T02:44:00.000Z,"Finance","Payroll Specialist",4,6,1,14,3,0,0,0,298,0.139,Low,"None",Normal
+U973,2026-09-27T18:21:00.000Z,"Finance","Financial Analyst",3,19,0,14,2,0,0,0,210,0.14,Low,"None",Normal
+U974,2026-09-27T07:32:00.000Z,"Finance","Senior Controller",6,9,0,15,2,0,0,0,215,0.035,Low,"None",Normal
+U975,2026-09-25T12:21:00.000Z,"Sales","Enterprise Sales Director",5,15,0,9,3,0,0,0,239,0.024,Low,"None",Normal
+U976,2026-09-25T04:41:00.000Z,"Sales","Account Executive",4,14,0,4,0,0,0,0,132,0.179,Low,"None",Normal
+U977,2026-09-23T15:09:00.000Z,"Human Resources","HR Generalist",4,15,0,6,1,0,0,0,56,0.116,Low,"None",Normal
+U978,2026-09-22T19:21:00.000Z,"IT","Network Engineer",7,9,0,11,1,0,0,0,91,0.16,Low,"None",Normal
+U979,2026-09-21T13:41:00.000Z,"Human Resources","HR Generalist",6,13,0,11,0,0,0,0,287,0.103,Low,"None",Normal
+U980,2026-09-27T15:11:00.000Z,"Engineering","DevOps Specialist",7,10,1,11,2,0,0,0,209,0.021,Low,"None",Normal
+U981,2026-09-26T19:59:00.000Z,"Human Resources","HR Director",4,21,1,4,3,0,0,0,236,0.08,Low,"None",Normal
+U982,2026-09-26T00:24:00.000Z,"Engineering","Senior Software Engineer",6,45,7,21,5,0,1,2,2015,0.616,Medium,"Unauthorized Access",Threat
+U983,2026-09-25T01:56:00.000Z,"IT","Network Engineer",5,14,0,10,2,0,0,0,233,0.144,Low,"None",Normal
+U984,2026-09-23T18:49:00.000Z,"Sales","Customer Success Lead",5,16,0,9,0,0,0,0,270,0.086,Low,"None",Normal
+U985,2026-09-23T06:39:00.000Z,"IT","Security Operator",7,20,0,5,1,0,0,0,206,0.082,Low,"None",Normal
+U986,2026-09-21T11:29:00.000Z,"Sales","Enterprise Sales Director",6,18,0,4,0,0,0,0,207,0.125,Low,"None",Normal
+U987,2026-09-28T00:13:00.000Z,"Sales","Enterprise Sales Director",3,11,1,14,1,0,0,1,102,0.132,Low,"None",Normal
+U988,2026-09-27T05:14:00.000Z,"Sales","Account Executive",5,6,1,7,0,0,0,0,63,0.158,Low,"None",Normal
+U989,2026-09-26T07:54:00.000Z,"Engineering","Senior Software Engineer",6,15,0,12,3,0,0,0,155,0.08,Low,"None",Normal
+U990,2026-09-25T02:14:00.000Z,"Sales","Account Executive",4,9,0,5,2,0,0,0,145,0.027,Low,"None",Normal
+U991,2026-09-24T02:03:00.000Z,"Finance","Accounts Auditor",7,15,0,7,2,1,0,0,159,0.095,Low,"None",Normal
+U992,2026-09-23T08:08:00.000Z,"Engineering","QA Engineer",5,20,0,10,3,0,0,0,206,0.078,Low,"None",Normal
+U993,2026-09-21T15:11:00.000Z,"Sales","Account Executive",5,13,0,9,0,0,0,0,140,0.088,Low,"None",Normal
+U994,2026-09-28T03:04:00.000Z,"Engineering","QA Engineer",6,11,0,13,0,0,0,0,161,0.229,Medium,"None",Normal
+U995,2026-09-27T05:15:00.000Z,"Engineering","Senior Software Engineer",7,9,0,9,3,0,0,0,226,0.202,Medium,"None",Normal
+U996,2026-09-25T10:42:00.000Z,"Sales","Account Executive",7,14,0,13,3,0,0,0,60,0.154,Low,"None",Normal
+U997,2026-09-25T02:25:00.000Z,"Sales","Enterprise Sales Director",6,12,0,4,3,0,0,0,228,0.185,Medium,"None",Normal
+U998,2026-09-23T08:39:00.000Z,"IT","Security Operator",3,11,0,9,0,0,0,0,295,0.088,Low,"None",Normal
+U999,2026-09-22T22:09:00.000Z,"Human Resources","HR Director",5,19,0,8,1,0,0,0,302,0.13,Low,"None",Normal
+U1000,2026-09-22T00:39:00.000Z,"Finance","Payroll Specialist",4,17,0,7,1,1,0,0,218,0.228,Medium,"None",Normal
+U1001,2026-09-27T10:02:00.000Z,"Human Resources","Recruitment Specialist",6,21,0,7,3,0,0,1,179,0.223,Medium,"None",Normal
+U1002,2026-09-26T12:32:00.000Z,"Sales","Account Executive",6,17,1,12,3,0,0,1,52,0.186,Medium,"None",Normal
+U1003,2026-09-25T21:24:00.000Z,"Sales","Customer Success Lead",7,16,1,17,3,0,0,0,210,0.21,Medium,"None",Normal
+U1004,2026-09-25T07:00:00.000Z,"Engineering","Senior Software Engineer",4,7,0,8,2,0,0,0,54,0.222,Medium,"None",Normal
+U1005,2026-09-24T01:37:00.000Z,"IT","Systems Administrator",3,16,0,11,1,0,0,0,44,0.149,Low,"None",Normal
+U1006,2026-09-22T15:42:00.000Z,"Engineering","Tech Lead",3,7,0,12,2,0,0,0,267,0.147,Low,"None",Normal
+U1007,2026-09-22T06:13:00.000Z,"Human Resources","Recruitment Specialist",3,20,0,4,3,0,0,0,262,0.148,Low,"None",Normal
+U1008,2026-09-27T23:30:00.000Z,"Sales","Account Executive",4,11,0,8,1,0,1,0,145,0.025,Low,"None",Normal
+U1009,2026-09-26T20:24:00.000Z,"IT","Helpdesk Specialist",11,25,9,35,11,1,1,4,2229,0.704,Medium,"Unauthorized Access",Threat
+U1010,2026-09-26T01:12:00.000Z,"Engineering","Cloud Architect",3,9,0,12,2,0,0,1,135,0.201,Medium,"None",Normal
+U1011,2026-09-25T07:08:00.000Z,"Finance","Payroll Specialist",4,19,0,12,1,0,0,0,306,0.07,Low,"None",Normal
+U1012,2026-09-23T23:58:00.000Z,"Human Resources","HR Director",6,15,1,7,3,0,0,0,231,0.225,Medium,"None",Normal
+U1013,2026-09-23T01:27:00.000Z,"Human Resources","HR Generalist",3,18,0,16,1,0,0,0,114,0.116,Low,"None",Normal
+U1014,2026-09-22T00:34:00.000Z,"Engineering","Senior Software Engineer",5,20,0,7,1,1,0,1,266,0.132,Low,"None",Normal
+U1015,2026-09-28T02:10:00.000Z,"Human Resources","HR Generalist",6,8,0,8,2,0,0,0,299,0.224,Medium,"None",Normal
+U1016,2026-09-26T20:23:00.000Z,"Human Resources","Recruitment Specialist",7,7,0,16,2,0,0,0,207,0.192,Medium,"None",Normal
+U1017,2026-09-26T06:45:00.000Z,"IT","Network Engineer",6,17,1,14,1,0,0,0,197,0.041,Low,"None",Normal
+U1018,2026-09-24T19:13:00.000Z,"Finance","Senior Controller",5,16,1,8,3,0,0,1,238,0.148,Low,"None",Normal
+U1019,2026-09-23T09:23:00.000Z,"Human Resources","HR Director",11,42,10,17,16,0,0,1,1035,0.769,Medium,"Data Exfiltration",Threat
+U1020,2026-09-23T02:34:00.000Z,"Engineering","Tech Lead",5,17,0,5,3,0,0,0,76,0.088,Low,"None",Normal
+U1021,2026-09-21T21:26:00.000Z,"IT","Security Operator",5,10,0,15,1,0,0,0,44,0.238,Medium,"None",Normal
+U1022,2026-09-27T14:02:00.000Z,"Human Resources","HR Generalist",7,15,0,5,0,0,1,0,49,0.23,Medium,"None",Normal
+U1023,2026-09-26T15:20:00.000Z,"IT","Helpdesk Specialist",3,12,0,10,2,0,1,0,247,0.037,Low,"None",Normal
+U1024,2026-09-26T00:26:00.000Z,"Sales","Account Executive",7,17,0,11,3,0,0,0,158,0.088,Low,"None",Normal
+U1025,2026-09-25T02:35:00.000Z,"Finance","Financial Analyst",4,12,0,5,1,0,0,1,104,0.137,Low,"None",Normal
+U1026,2026-09-23T11:34:00.000Z,"IT","Network Engineer",5,15,1,14,2,0,0,0,289,0.164,Low,"None",Normal
+U1027,2026-09-22T09:13:00.000Z,"Human Resources","Recruitment Specialist",5,15,0,16,3,0,0,1,244,0.028,Low,"None",Normal
+U1028,2026-09-21T19:35:00.000Z,"Engineering","Cloud Architect",3,21,0,16,0,1,1,0,304,0.185,Medium,"None",Normal
+U1029,2026-09-28T06:12:00.000Z,"Sales","Account Executive",6,17,0,15,2,0,0,0,59,0.152,Low,"None",Normal
+U1030,2026-09-26T09:26:00.000Z,"Finance","Senior Controller",7,20,0,7,1,0,1,0,64,0.232,Medium,"None",Normal
+U1031,2026-09-25T16:50:00.000Z,"Finance","Senior Controller",5,12,0,5,1,0,0,0,177,0.157,Low,"None",Normal
+U1032,2026-09-25T08:12:00.000Z,"Finance","Financial Analyst",3,11,0,14,1,0,0,0,237,0.03,Low,"None",Normal
+U1033,2026-09-23T13:18:00.000Z,"IT","Security Operator",4,13,0,5,2,0,0,1,131,0.125,Low,"None",Normal
+U1034,2026-09-23T07:15:00.000Z,"Human Resources","HR Generalist",7,11,0,6,2,0,0,0,239,0.125,Low,"None",Normal
+U1035,2026-09-22T00:53:00.000Z,"Human Resources","HR Director",6,18,0,9,1,0,1,0,205,0.061,Low,"None",Normal
+U1036,2026-09-28T03:42:00.000Z,"Sales","Customer Success Lead",5,20,0,6,3,0,0,0,136,0.151,Low,"None",Normal
+U1037,2026-09-27T06:36:00.000Z,"Finance","Accounts Auditor",5,15,1,17,3,0,0,0,120,0.164,Low,"None",Normal
+U1038,2026-09-25T12:45:00.000Z,"IT","Security Operator",5,14,0,15,1,0,0,0,202,0.235,Medium,"None",Normal
+U1039,2026-09-24T18:27:00.000Z,"IT","Security Operator",6,6,0,16,3,0,0,0,306,0.131,Low,"None",Normal
+U1040,2026-09-23T16:38:00.000Z,"Engineering","DevOps Specialist",5,17,0,11,2,0,0,1,243,0.067,Low,"None",Normal
+U1041,2026-09-22T23:54:00.000Z,"Sales","Customer Success Lead",6,17,0,8,3,0,0,0,92,0.072,Low,"None",Normal
+User_1042,2026-09-21T17:39:00.000Z,"Engineering","Tech Lead",6,15,0,11,0,0,1,1,100,0.143,Low,"None",Normal
+U1043,2026-09-27T13:31:00.000Z,"Finance","Accounts Auditor",7,8,0,11,0,0,0,0,119,0.164,Low,"None",Normal
+U1044,2026-09-27T05:36:00.000Z,"Finance","Senior Controller",3,10,0,11,3,1,0,1,168,0.143,Low,"None",Normal
+U1045,2026-09-25T21:59:00.000Z,"IT","Security Operator",3,10,0,16,3,0,0,0,235,0.127,Low,"None",Normal
+U1046,2026-09-24T19:31:00.000Z,"Finance","Payroll Specialist",4,9,0,10,1,0,0,0,167,0.168,Low,"None",Normal
+U1047,2026-09-23T17:41:00.000Z,"Engineering","Tech Lead",6,9,0,6,1,0,0,0,316,0.032,Low,"None",Normal
+U1048,2026-09-22T14:21:00.000Z,"Engineering","Senior Software Engineer",3,17,0,4,1,0,0,0,70,0.165,Low,"None",Normal
+U1049,2026-09-21T18:48:00.000Z,"Engineering","QA Engineer",6,12,0,6,3,0,0,0,164,0.146,Low,"None",Normal
+U1050,2026-09-27T13:05:00.000Z,"IT","Systems Administrator",5,14,1,8,3,0,0,0,113,0.051,Low,"None",Normal
+U1051,2026-09-26T10:10:00.000Z,"Human Resources","HR Generalist",7,10,0,15,3,0,0,0,87,0.116,Low,"None",Normal
+U1052,2026-09-26T06:46:00.000Z,"IT","Helpdesk Specialist",7,17,0,16,3,0,0,0,186,0.151,Low,"None",Normal
+U1053,2026-09-24T13:57:00.000Z,"Human Resources","Recruitment Specialist",3,15,0,15,2,0,0,0,285,0.207,Medium,"None",Normal
+U1054,2026-09-23T16:41:00.000Z,"Sales","Enterprise Sales Director",5,14,1,6,1,0,0,0,235,0.029,Low,"None",Normal
+U1055,2026-09-22T21:04:00.000Z,"Finance","Financial Analyst",9,28,4,20,13,0,1,1,1929,0.602,Medium,"Unauthorized Access",Threat
+U1056,2026-09-21T16:45:00.000Z,"Human Resources","HR Generalist",3,12,0,15,0,0,0,0,163,0.144,Low,"None",Normal
+U1057,2026-09-27T08:43:00.000Z,"Human Resources","HR Generalist",4,11,0,6,3,0,0,0,47,0.058,Low,"None",Normal
+U1058,2026-09-27T05:43:00.000Z,"Engineering","Tech Lead",5,6,1,14,1,0,0,0,90,0.044,Low,"None",Normal
+U1059,2026-09-26T07:30:00.000Z,"IT","Helpdesk Specialist",4,7,0,13,1,1,0,0,295,0.212,Medium,"None",Normal
+U1060,2026-09-24T15:16:00.000Z,"Human Resources","Recruitment Specialist",4,9,0,4,0,0,0,0,280,0.156,Low,"None",Normal
+U1061,2026-09-23T22:22:00.000Z,"Human Resources","Recruitment Specialist",7,14,0,7,1,0,0,0,108,0.143,Low,"None",Normal
+U1062,2026-09-22T10:20:00.000Z,"Finance","Senior Controller",3,17,1,14,2,0,0,0,262,0.178,Low,"None",Normal
+U1063,2026-09-22T08:16:00.000Z,"Human Resources","Recruitment Specialist",5,9,0,15,1,0,0,0,143,0.212,Medium,"None",Normal
+U1064,2026-09-28T05:52:00.000Z,"Engineering","Senior Software Engineer",6,7,0,12,0,0,0,1,49,0.212,Medium,"None",Normal
+U1065,2026-09-27T02:33:00.000Z,"Sales","Customer Success Lead",6,21,0,15,2,0,0,0,75,0.053,Low,"None",Normal
+U1066,2026-09-25T20:29:00.000Z,"Engineering","Tech Lead",4,14,0,17,0,0,0,0,147,0.229,Medium,"None",Normal
+U1067,2026-09-24T16:59:00.000Z,"Finance","Accounts Auditor",6,16,0,9,0,0,0,0,95,0.027,Low,"None",Normal
+U1068,2026-09-24T02:18:00.000Z,"Engineering","Tech Lead",3,6,0,7,1,0,1,0,171,0.21,Medium,"None",Normal
+U1069,2026-09-22T17:10:00.000Z,"Sales","Customer Success Lead",6,12,0,8,1,0,0,0,305,0.16,Low,"None",Normal
+U1070,2026-09-21T14:42:00.000Z,"IT","Systems Administrator",4,13,0,17,0,0,0,0,107,0.092,Low,"None",Normal
+U1071,2026-09-27T17:09:00.000Z,"IT","Security Operator",3,8,0,13,1,0,0,0,150,0.199,Medium,"None",Normal
+U1072,2026-09-26T22:50:00.000Z,"Sales","Account Executive",7,20,0,14,3,0,1,0,242,0.056,Low,"None",Normal
+U1073,2026-09-25T14:07:00.000Z,"Human Resources","HR Generalist",5,16,0,7,3,0,0,0,275,0.224,Medium,"None",Normal
+U1074,2026-09-24T14:43:00.000Z,"Human Resources","Recruitment Specialist",5,6,0,11,2,1,1,1,101,0.182,Medium,"None",Normal
+U1075,2026-09-23T13:50:00.000Z,"Finance","Payroll Specialist",4,7,0,10,1,0,0,0,136,0.108,Low,"None",Normal
+U1076,2026-09-23T07:21:00.000Z,"Sales","Enterprise Sales Director",3,20,1,10,0,0,0,1,172,0.04,Low,"None",Normal
+U1077,2026-09-21T16:36:00.000Z,"Human Resources","Recruitment Specialist",6,18,1,16,0,1,0,1,117,0.103,Low,"None",Normal
+U1078,2026-09-27T23:18:00.000Z,"Sales","Enterprise Sales Director",9,30,11,27,14,1,1,1,1211,0.752,Medium,"Privilege Escalation",Threat
+U1079,2026-09-26T21:41:00.000Z,"Human Resources","HR Generalist",4,9,0,6,0,0,0,0,181,0.105,Low,"None",Normal
+U1080,2026-09-25T18:49:00.000Z,"Finance","Financial Analyst",4,10,0,4,2,0,0,0,184,0.186,Medium,"None",Normal
+U1081,2026-09-25T06:26:00.000Z,"Sales","Customer Success Lead",7,19,0,17,0,0,0,0,152,0.226,Medium,"None",Normal
+U1082,2026-09-23T16:05:00.000Z,"Finance","Senior Controller",5,11,1,12,0,1,0,0,126,0.237,Medium,"None",Normal
+U1083,2026-09-23T02:34:00.000Z,"Sales","Account Executive",5,10,0,13,3,0,0,0,253,0.229,Medium,"None",Normal
+U1084,2026-09-21T21:21:00.000Z,"IT","Security Operator",3,17,0,13,1,0,0,1,90,0.119,Low,"None",Normal
+U1085,2026-09-27T10:06:00.000Z,"Human Resources","HR Director",5,8,1,12,3,0,0,0,80,0.087,Low,"None",Normal
+U1086,2026-09-26T17:41:00.000Z,"Finance","Accounts Auditor",4,19,0,12,2,0,0,0,146,0.226,Medium,"None",Normal
+U1087,2026-09-25T13:18:00.000Z,"IT","Systems Administrator",7,9,1,12,3,0,0,0,92,0.061,Low,"None",Normal
+U1088,2026-09-25T02:03:00.000Z,"Human Resources","Recruitment Specialist",7,11,1,8,3,0,0,0,240,0.105,Low,"None",Normal
+U1089,2026-09-24T00:53:00.000Z,"Human Resources","HR Generalist",4,18,0,10,3,0,0,0,245,0.121,Low,"None",Normal
+U1090,2026-09-22T10:56:00.000Z,"Engineering","Senior Software Engineer",6,20,0,17,1,0,1,0,154,0.11,Low,"None",Normal
+U1091,2026-09-21T13:44:00.000Z,"Engineering","Senior Software Engineer",6,8,0,9,1,0,0,0,214,0.233,Medium,"None",Normal
+U1092,2026-09-28T03:33:00.000Z,"IT","Security Operator",4,20,0,6,0,0,0,0,235,0.227,Medium,"None",Normal
+U1093,2026-09-26T13:07:00.000Z,"Sales","Account Executive",6,15,1,17,1,0,0,0,89,0.11,Low,"None",Normal
+U1094,2026-09-25T18:39:00.000Z,"Sales","Account Executive",4,17,0,7,1,0,0,1,183,0.129,Low,"None",Normal
+U1095,2026-09-24T15:30:00.000Z,"Engineering","Cloud Architect",7,17,0,15,1,0,0,1,290,0.067,Low,"None",Normal
+U1096,2026-09-23T11:43:00.000Z,"Engineering","DevOps Specialist",6,20,0,12,1,0,0,0,293,0.17,Low,"None",Normal
+U1097,2026-09-23T08:06:00.000Z,"IT","Helpdesk Specialist",7,12,0,9,2,0,0,0,191,0.097,Low,"None",Normal
+U1098,2026-09-21T16:42:00.000Z,"Human Resources","HR Generalist",5,20,1,10,1,0,0,0,85,0.232,Medium,"None",Normal
+U1099,2026-09-28T08:25:00.000Z,"Engineering","Cloud Architect",3,9,1,7,2,0,0,0,239,0.028,Low,"None",Normal
+U1100,2026-09-26T08:55:00.000Z,"Engineering","Senior Software Engineer",3,14,1,8,3,0,0,0,254,0.228,Medium,"None",Normal
+U1101,2026-09-26T00:29:00.000Z,"Human Resources","Recruitment Specialist",4,12,1,4,3,0,0,0,220,0.179,Low,"None",Normal
+U1102,2026-09-24T15:02:00.000Z,"IT","Systems Administrator",5,17,0,7,3,0,0,0,146,0.2,Medium,"None",Normal
+U1103,2026-09-24T00:37:00.000Z,"Finance","Payroll Specialist",7,14,0,5,2,1,0,0,203,0.066,Low,"None",Normal
+U1104,2026-09-22T20:31:00.000Z,"Finance","Payroll Specialist",5,17,0,6,2,0,1,0,132,0.215,Medium,"None",Normal
+U1105,2026-09-21T14:34:00.000Z,"IT","Network Engineer",6,17,1,16,1,0,0,1,295,0.095,Low,"None",Normal
+U1106,2026-09-28T04:54:00.000Z,"Human Resources","HR Generalist",6,21,0,6,0,0,0,0,61,0.059,Low,"None",Normal
+U1107,2026-09-27T05:16:00.000Z,"Human Resources","Recruitment Specialist",3,10,0,13,2,0,0,0,93,0.174,Low,"None",Normal
+U1108,2026-09-25T09:31:00.000Z,"Finance","Accounts Auditor",3,9,0,8,0,0,0,0,192,0.18,Low,"None",Normal
+U1109,2026-09-24T16:34:00.000Z,"IT","Systems Administrator",6,15,0,16,3,0,0,0,120,0.038,Low,"None",Normal
+U1110,2026-09-24T03:50:00.000Z,"Sales","Customer Success Lead",6,7,1,6,2,0,0,0,300,0.097,Low,"None",Normal
+U1111,2026-09-22T15:54:00.000Z,"Sales","Account Executive",5,20,0,4,3,0,0,0,276,0.145,Low,"None",Normal
+U1112,2026-09-21T15:38:00.000Z,"Engineering","Senior Software Engineer",6,17,0,17,3,0,0,0,105,0.171,Low,"None",Normal
+U1113,2026-09-28T05:57:00.000Z,"Sales","Account Executive",7,12,0,4,3,0,0,0,150,0.081,Low,"None",Normal
+U1114,2026-09-27T00:51:00.000Z,"Finance","Senior Controller",7,6,0,5,1,0,0,1,113,0.096,Low,"None",Normal
+U1115,2026-09-25T22:16:00.000Z,"Finance","Accounts Auditor",7,9,0,7,1,0,0,0,81,0.122,Low,"None",Normal
+U1116,2026-09-24T08:48:00.000Z,"Human Resources","HR Generalist",3,7,0,5,1,0,0,0,275,0.195,Medium,"None",Normal
+U1117,2026-09-24T03:02:00.000Z,"Human Resources","HR Generalist",6,9,0,7,3,0,0,1,279,0.226,Medium,"None",Normal
+U1118,2026-09-22T19:45:00.000Z,"Sales","Account Executive",7,18,0,8,2,0,0,0,244,0.092,Low,"None",Normal
+U1119,2026-09-22T05:21:00.000Z,"Sales","Account Executive",5,7,0,7,3,0,0,0,160,0.127,Low,"None",Normal
+U1120,2026-09-28T06:41:00.000Z,"Finance","Financial Analyst",6,13,1,17,0,0,0,1,66,0.142,Low,"None",Normal
+U1121,2026-09-27T01:46:00.000Z,"Engineering","QA Engineer",7,12,1,15,2,0,1,0,180,0.143,Low,"None",Normal
+U1122,2026-09-25T09:51:00.000Z,"IT","Systems Administrator",6,15,0,13,1,0,0,0,295,0.09,Low,"None",Normal
+U1123,2026-09-24T12:58:00.000Z,"Human Resources","HR Generalist",5,6,0,6,3,0,0,0,277,0.054,Low,"None",Normal
+U1124,2026-09-24T08:02:00.000Z,"Sales","Enterprise Sales Director",4,6,0,11,2,0,0,0,269,0.043,Low,"None",Normal
+U1125,2026-09-23T04:46:00.000Z,"Finance","Payroll Specialist",8,47,10,19,14,1,1,2,1522,0.759,Medium,"Unauthorized Access",Threat
+U1126,2026-09-21T21:37:00.000Z,"Human Resources","HR Generalist",4,21,0,7,2,0,0,0,253,0.123,Low,"None",Normal
+U1127,2026-09-27T18:10:00.000Z,"Engineering","Tech Lead",3,17,0,10,0,0,0,0,62,0.145,Low,"None",Normal
+U1128,2026-09-27T06:49:00.000Z,"Engineering","Senior Software Engineer",5,17,0,9,3,0,0,0,213,0.185,Medium,"None",Normal
+U1129,2026-09-26T06:44:00.000Z,"Human Resources","Recruitment Specialist",5,16,0,7,3,0,0,0,201,0.103,Low,"None",Normal
+U1130,2026-09-25T03:50:00.000Z,"IT","Helpdesk Specialist",7,6,1,4,3,0,0,0,243,0.227,Medium,"None",Normal
+U1131,2026-09-24T03:26:00.000Z,"Finance","Financial Analyst",6,9,0,17,1,0,0,1,301,0.183,Medium,"None",Normal
+U1132,2026-09-23T02:58:00.000Z,"Finance","Financial Analyst",7,18,0,12,2,0,0,0,92,0.037,Low,"None",Normal
+U1133,2026-09-21T11:39:00.000Z,"Sales","Account Executive",6,15,0,11,2,0,0,0,220,0.083,Low,"None",Normal
+U1134,2026-09-28T02:40:00.000Z,"Sales","Customer Success Lead",5,8,1,12,3,0,0,1,175,0.187,Medium,"None",Normal
+U1135,2026-09-27T01:27:00.000Z,"Engineering","DevOps Specialist",4,14,1,10,2,0,0,1,156,0.239,Medium,"None",Normal
+U1136,2026-09-25T13:19:00.000Z,"Sales","Customer Success Lead",3,21,0,10,3,0,0,0,236,0.224,Medium,"None",Normal
+U1137,2026-09-24T10:49:00.000Z,"Finance","Payroll Specialist",7,8,0,4,0,1,0,0,85,0.171,Low,"None",Normal
+U1138,2026-09-24T02:36:00.000Z,"Sales","Customer Success Lead",7,11,0,10,0,0,0,1,139,0.183,Medium,"None",Normal
+U1139,2026-09-22T13:02:00.000Z,"Sales","Account Executive",7,18,0,14,1,0,0,1,270,0.143,Low,"None",Normal
+U1140,2026-09-21T15:48:00.000Z,"Human Resources","HR Director",3,17,1,10,3,0,0,0,104,0.192,Medium,"None",Normal
+U1141,2026-09-28T04:01:00.000Z,"IT","Systems Administrator",4,18,0,17,1,0,0,0,122,0.028,Low,"None",Normal
+U1142,2026-09-26T08:58:00.000Z,"Sales","Customer Success Lead",3,12,0,9,1,0,1,0,77,0.021,Low,"None",Normal
+U1143,2026-09-25T19:44:00.000Z,"Human Resources","HR Generalist",4,13,0,4,2,0,1,0,79,0.191,Medium,"None",Normal
+U1144,2026-09-24T22:22:00.000Z,"Engineering","DevOps Specialist",7,39,11,31,11,1,0,1,2170,0.722,Medium,"Privilege Escalation",Threat
+U1145,2026-09-23T18:01:00.000Z,"Human Resources","HR Generalist",6,10,0,5,2,0,0,0,182,0.098,Low,"None",Normal
+U1146,2026-09-22T18:22:00.000Z,"IT","Helpdesk Specialist",3,9,1,8,1,1,0,1,177,0.175,Low,"None",Normal
+U1147,2026-09-21T15:11:00.000Z,"Human Resources","HR Director",4,7,1,9,3,0,0,1,277,0.21,Medium,"None",Normal
+U1148,2026-09-27T09:34:00.000Z,"Finance","Senior Controller",4,16,0,14,2,0,1,0,100,0.134,Low,"None",Normal
+U1149,2026-09-26T18:49:00.000Z,"Human Resources","HR Generalist",6,20,0,13,1,0,0,0,264,0.158,Low,"None",Normal
+U1150,2026-09-25T23:48:00.000Z,"Human Resources","HR Generalist",6,15,0,9,0,0,0,0,163,0.21,Medium,"None",Normal
+U1151,2026-09-24T18:00:00.000Z,"Engineering","QA Engineer",7,8,0,16,0,0,0,0,255,0.086,Low,"None",Normal
+U1152,2026-09-24T00:14:00.000Z,"Human Resources","HR Generalist",4,12,0,16,0,1,0,0,226,0.232,Medium,"None",Normal
+U1153,2026-09-22T15:26:00.000Z,"Engineering","Cloud Architect",3,17,0,14,3,0,0,0,185,0.173,Low,"None",Normal
+U1154,2026-09-21T18:35:00.000Z,"Engineering","QA Engineer",4,8,1,5,1,0,1,0,229,0.127,Low,"None",Normal
+U1155,2026-09-27T23:06:00.000Z,"Sales","Account Executive",7,9,0,6,2,0,1,0,100,0.159,Low,"None",Normal
+U1156,2026-09-26T11:02:00.000Z,"Human Resources","Recruitment Specialist",6,19,0,4,2,0,0,0,257,0.044,Low,"None",Normal
+U1157,2026-09-26T03:59:00.000Z,"Sales","Account Executive",4,14,1,8,0,1,0,1,266,0.203,Medium,"None",Normal
+U1158,2026-09-24T11:09:00.000Z,"Human Resources","HR Director",3,18,0,17,1,0,0,0,85,0.102,Low,"None",Normal
+U1159,2026-09-24T06:57:00.000Z,"Finance","Accounts Auditor",4,12,0,14,3,0,0,0,53,0.105,Low,"None",Normal
+U1160,2026-09-22T16:04:00.000Z,"Engineering","QA Engineer",6,17,0,4,1,0,0,0,284,0.179,Low,"None",Normal
+U1161,2026-09-21T23:04:00.000Z,"Engineering","Tech Lead",3,12,0,5,0,0,0,1,267,0.128,Low,"None",Normal
+U1162,2026-09-28T01:17:00.000Z,"Engineering","Tech Lead",4,16,1,11,3,0,0,1,157,0.05,Low,"None",Normal
+U1163,2026-09-26T14:19:00.000Z,"Sales","Customer Success Lead",7,8,0,7,2,0,0,0,258,0.219,Medium,"None",Normal
+U1164,2026-09-26T00:54:00.000Z,"Engineering","QA Engineer",7,21,1,11,3,0,0,0,260,0.054,Low,"None",Normal
+U1165,2026-09-24T09:02:00.000Z,"Engineering","Cloud Architect",3,13,0,5,0,0,1,1,231,0.1,Low,"None",Normal
+U1166,2026-09-23T23:50:00.000Z,"Human Resources","Recruitment Specialist",3,21,0,13,3,0,0,0,153,0.033,Low,"None",Normal
+U1167,2026-09-22T18:06:00.000Z,"Engineering","DevOps Specialist",6,9,0,6,2,0,0,0,185,0.157,Low,"None",Normal
+U1168,2026-09-22T00:41:00.000Z,"Finance","Financial Analyst",6,16,0,4,3,0,0,0,78,0.179,Low,"None",Normal
+U1169,2026-09-28T03:22:00.000Z,"IT","Network Engineer",3,13,1,6,0,0,0,0,298,0.125,Low,"None",Normal
+U1170,2026-09-26T18:38:00.000Z,"Human Resources","HR Generalist",3,15,0,5,3,0,0,0,215,0.171,Low,"None",Normal
+U1171,2026-09-25T19:25:00.000Z,"Finance","Accounts Auditor",3,6,0,17,3,0,0,0,121,0.158,Low,"None",Normal
+U1172,2026-09-24T16:31:00.000Z,"Engineering","Cloud Architect",5,16,0,14,3,0,0,0,63,0.088,Low,"None",Normal
+U1173,2026-09-23T11:52:00.000Z,"Engineering","Cloud Architect",7,13,0,17,0,0,0,0,272,0.134,Low,"None",Normal
+U1174,2026-09-22T15:57:00.000Z,"Human Resources","Recruitment Specialist",3,9,0,8,0,0,0,1,295,0.234,Medium,"None",Normal
+U1175,2026-09-21T13:54:00.000Z,"Sales","Customer Success Lead",4,9,0,14,0,0,1,0,43,0.078,Low,"None",Normal
+U1176,2026-09-27T11:57:00.000Z,"Sales","Customer Success Lead",6,11,0,12,2,0,0,0,71,0.077,Low,"None",Normal
+U1177,2026-09-27T05:50:00.000Z,"Human Resources","HR Director",3,16,0,8,3,0,0,0,236,0.044,Low,"None",Normal
+U1178,2026-09-25T20:08:00.000Z,"Human Resources","Recruitment Specialist",4,20,1,9,2,0,0,0,196,0.154,Low,"None",Normal
+U1179,2026-09-25T07:12:00.000Z,"Engineering","QA Engineer",5,9,0,7,3,0,0,0,265,0.041,Low,"None",Normal
+U1180,2026-09-24T03:11:00.000Z,"Engineering","Tech Lead",5,21,0,6,0,0,0,0,193,0.022,Low,"None",Normal
+U1181,2026-09-22T11:01:00.000Z,"Human Resources","HR Generalist",6,10,0,8,1,0,0,0,171,0.04,Low,"None",Normal
+U1182,2026-09-21T17:39:00.000Z,"Sales","Customer Success Lead",7,8,1,14,3,0,0,0,272,0.23,Medium,"None",Normal
+U1183,2026-09-28T05:46:00.000Z,"Sales","Customer Success Lead",5,21,0,13,3,0,0,0,236,0.065,Low,"None",Normal
+U1184,2026-09-27T01:23:00.000Z,"Engineering","Cloud Architect",5,14,0,10,0,0,0,0,192,0.056,Low,"None",Normal
+U1185,2026-09-26T05:27:00.000Z,"Finance","Accounts Auditor",3,18,0,16,0,0,0,0,174,0.041,Low,"None",Normal
+U1186,2026-09-24T21:38:00.000Z,"Engineering","QA Engineer",6,8,0,11,0,0,1,0,229,0.081,Low,"None",Normal
+U1187,2026-09-23T15:25:00.000Z,"Engineering","QA Engineer",3,11,0,14,0,0,0,0,59,0.222,Medium,"None",Normal
+U1188,2026-09-22T19:47:00.000Z,"Engineering","Senior Software Engineer",7,14,0,12,1,0,0,0,265,0.095,Low,"None",Normal
+U1189,2026-09-22T04:26:00.000Z,"Human Resources","Recruitment Specialist",7,12,0,12,1,0,0,0,58,0.072,Low,"None",Normal
+U1190,2026-09-28T03:34:00.000Z,"Engineering","DevOps Specialist",5,19,0,9,3,0,0,0,132,0.157,Low,"None",Normal
+U1191,2026-09-26T09:20:00.000Z,"Finance","Payroll Specialist",5,11,0,7,0,0,0,0,118,0.096,Low,"None",Normal
+U1192,2026-09-26T05:11:00.000Z,"Finance","Payroll Specialist",5,6,1,4,3,1,0,0,278,0.237,Medium,"None",Normal
+U1193,2026-09-25T01:05:00.000Z,"Human Resources","HR Generalist",6,14,0,13,3,0,0,1,49,0.233,Medium,"None",Normal
+U1194,2026-09-23T21:45:00.000Z,"Human Resources","HR Generalist",6,11,0,5,0,0,0,0,174,0.072,Low,"None",Normal
+U1195,2026-09-22T16:14:00.000Z,"Finance","Senior Controller",3,7,0,5,2,0,0,0,270,0.042,Low,"None",Normal
+U1196,2026-09-21T18:01:00.000Z,"Engineering","Senior Software Engineer",7,20,0,15,3,0,0,0,284,0.081,Low,"None",Normal
+U1197,2026-09-28T06:46:00.000Z,"Sales","Account Executive",4,11,0,14,2,0,0,0,264,0.034,Low,"None",Normal
+U1198,2026-09-26T20:05:00.000Z,"Engineering","QA Engineer",4,18,1,9,0,0,0,0,178,0.049,Low,"None",Normal
+U1199,2026-09-26T02:14:00.000Z,"Engineering","DevOps Specialist",6,11,0,6,0,0,1,0,255,0.215,Medium,"None",Normal
+U1200,2026-09-24T11:36:00.000Z,"Sales","Enterprise Sales Director",6,21,0,6,2,0,0,0,317,0.17,Low,"None",Normal
+U1201,2026-09-24T05:43:00.000Z,"IT","Helpdesk Specialist",5,21,1,9,3,0,0,0,131,0.19,Medium,"None",Normal
+U1202,2026-09-22T09:15:00.000Z,"IT","Helpdesk Specialist",7,17,0,5,0,0,0,0,71,0.03,Low,"None",Normal
+U1203,2026-09-22T00:11:00.000Z,"Engineering","Tech Lead",6,14,0,9,2,0,0,0,269,0.215,Medium,"None",Normal
+U1204,2026-09-27T22:35:00.000Z,"Sales","Account Executive",4,8,0,4,0,0,0,0,49,0.172,Low,"None",Normal
+U1205,2026-09-26T20:42:00.000Z,"Finance","Payroll Specialist",4,9,0,13,0,0,0,0,193,0.036,Low,"None",Normal
+U1206,2026-09-25T09:33:00.000Z,"IT","Network Engineer",7,17,0,8,1,0,0,0,143,0.225,Medium,"None",Normal
+U1207,2026-09-24T19:17:00.000Z,"Finance","Payroll Specialist",3,6,0,10,0,0,0,1,260,0.08,Low,"None",Normal
+U1208,2026-09-23T20:08:00.000Z,"Human Resources","HR Director",3,16,1,16,2,0,0,0,306,0.037,Low,"None",Normal
+U1209,2026-09-22T15:57:00.000Z,"IT","Security Operator",4,18,0,8,0,0,0,1,128,0.126,Low,"None",Normal
+U1210,2026-09-21T12:43:00.000Z,"Sales","Account Executive",7,10,1,14,3,0,0,0,250,0.229,Medium,"None",Normal
+U1211,2026-09-27T08:40:00.000Z,"Finance","Senior Controller",5,20,0,14,2,0,0,0,225,0.072,Low,"None",Normal
+U1212,2026-09-26T20:17:00.000Z,"IT","Helpdesk Specialist",6,8,1,6,1,1,0,0,273,0.217,Medium,"None",Normal
+U1213,2026-09-26T01:22:00.000Z,"Human Resources","HR Director",5,20,0,14,1,0,1,0,154,0.152,Low,"None",Normal
+U1214,2026-09-25T08:02:00.000Z,"Finance","Senior Controller",3,21,0,6,2,0,1,0,99,0.226,Medium,"None",Normal
+U1215,2026-09-24T06:34:00.000Z,"Engineering","Tech Lead",7,20,0,13,1,0,0,0,42,0.151,Low,"None",Normal
+U1216,2026-09-22T19:14:00.000Z,"Finance","Financial Analyst",3,8,0,14,2,0,1,0,262,0.078,Low,"None",Normal
+U1217,2026-09-21T10:28:00.000Z,"Finance","Financial Analyst",5,16,1,5,1,0,0,0,57,0.103,Low,"None",Normal
+U1218,2026-09-27T22:14:00.000Z,"Finance","Senior Controller",4,19,1,17,1,0,0,0,267,0.06,Low,"None",Normal
+U1219,2026-09-26T12:27:00.000Z,"Sales","Enterprise Sales Director",6,28,12,33,7,1,1,3,1708,0.642,Medium,"Unauthorized Access",Threat
+U1220,2026-09-25T10:36:00.000Z,"Sales","Enterprise Sales Director",5,14,0,13,0,0,0,0,107,0.133,Low,"None",Normal
+U1221,2026-09-24T08:57:00.000Z,"Engineering","Senior Software Engineer",5,17,0,11,2,0,1,0,135,0.128,Low,"None",Normal
+U1222,2026-09-23T16:56:00.000Z,"Engineering","Senior Software Engineer",3,9,0,15,0,0,0,0,239,0.049,Low,"None",Normal
+U1223,2026-09-22T15:41:00.000Z,"Human Resources","HR Director",4,8,0,15,3,0,0,0,150,0.207,Medium,"None",Normal
+U1224,2026-09-21T09:26:00.000Z,"IT","Helpdesk Specialist",7,16,1,8,3,0,0,0,47,0.049,Low,"None",Normal
+U1225,2026-09-28T07:32:00.000Z,"Engineering","Senior Software Engineer",5,16,0,4,2,0,0,0,116,0.142,Low,"None",Normal
+U1226,2026-09-26T23:40:00.000Z,"Engineering","Tech Lead",6,8,1,6,2,0,0,1,235,0.02,Low,"None",Normal
+U1227,2026-09-26T00:54:00.000Z,"Engineering","QA Engineer",7,11,1,7,1,0,1,0,204,0.101,Low,"None",Normal
+U1228,2026-09-24T09:40:00.000Z,"Sales","Enterprise Sales Director",7,20,0,11,1,0,0,1,259,0.214,Medium,"None",Normal
+U1229,2026-09-24T05:14:00.000Z,"Human Resources","HR Director",6,18,0,8,2,0,0,0,40,0.161,Low,"None",Normal
+U1230,2026-09-23T05:03:00.000Z,"Engineering","Tech Lead",6,14,0,17,1,0,1,0,276,0.203,Medium,"None",Normal
+U1231,2026-09-21T13:35:00.000Z,"Finance","Financial Analyst",4,9,0,14,0,0,0,0,80,0.226,Medium,"None",Normal
+U1232,2026-09-27T12:52:00.000Z,"Finance","Senior Controller",6,18,0,7,1,0,0,0,242,0.07,Low,"None",Normal
+U1233,2026-09-26T20:47:00.000Z,"Engineering","Cloud Architect",3,15,0,7,1,0,0,0,249,0.178,Low,"None",Normal
+U1234,2026-09-25T15:02:00.000Z,"Sales","Account Executive",6,8,0,6,2,0,0,0,277,0.055,Low,"None",Normal
+U1235,2026-09-24T19:58:00.000Z,"IT","Network Engineer",7,17,1,8,2,0,1,1,98,0.116,Low,"None",Normal
+U1236,2026-09-23T12:11:00.000Z,"Sales","Account Executive",4,12,0,4,3,0,0,0,139,0.112,Low,"None",Normal
+U1237,2026-09-23T00:23:00.000Z,"Engineering","QA Engineer",4,17,0,14,1,0,1,1,220,0.136,Low,"None",Normal
+U1238,2026-09-21T13:16:00.000Z,"Sales","Account Executive",5,6,0,9,1,0,0,1,222,0.103,Low,"None",Normal
+U1239,2026-09-28T03:55:00.000Z,"IT","Helpdesk Specialist",4,7,0,5,1,0,1,0,186,0.059,Low,"None",Normal
+U1240,2026-09-27T04:33:00.000Z,"IT","Systems Administrator",3,13,1,7,2,0,0,0,42,0.136,Low,"None",Normal
+U1241,2026-09-26T06:46:00.000Z,"Sales","Enterprise Sales Director",9,32,10,34,10,0,1,2,2186,0.579,Medium,"Privilege Escalation",Threat
+U1242,2026-09-24T14:27:00.000Z,"Human Resources","Recruitment Specialist",7,6,0,7,1,0,0,0,282,0.155,Low,"None",Normal
+U1243,2026-09-24T07:43:00.000Z,"Sales","Customer Success Lead",4,19,0,10,2,0,0,0,186,0.232,Medium,"None",Normal
+U1244,2026-09-23T02:56:00.000Z,"Engineering","Senior Software Engineer",4,6,1,9,1,0,0,0,128,0.093,Low,"None",Normal
+U1245,2026-09-21T19:28:00.000Z,"Finance","Financial Analyst",4,19,0,13,2,0,0,0,64,0.029,Low,"None",Normal
+U1246,2026-09-27T08:37:00.000Z,"Sales","Enterprise Sales Director",3,17,0,14,3,0,0,0,80,0.068,Low,"None",Normal
+U1247,2026-09-26T20:11:00.000Z,"Finance","Accounts Auditor",6,15,0,6,3,0,0,0,231,0.026,Low,"None",Normal
+U1248,2026-09-25T23:16:00.000Z,"Engineering","DevOps Specialist",6,11,0,8,1,0,0,0,159,0.054,Low,"None",Normal
+U1249,2026-09-25T04:14:00.000Z,"Finance","Accounts Auditor",3,18,1,15,1,0,0,0,304,0.227,Medium,"None",Normal
+U1250,2026-09-23T23:26:00.000Z,"Finance","Financial Analyst",6,20,0,9,3,1,0,1,181,0.115,Low,"None",Normal
